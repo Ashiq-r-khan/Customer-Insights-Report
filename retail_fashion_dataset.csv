@@ -1,0 +1,1001 @@
+﻿CustomerID,Gender,Age,Location,Membership,AnnualIncome,ProductCategory,AmountSpent,ItemsPurchased,SatisfactionRating,Returned,PaymentMethod
+1,Male,33,Dhaka,Platinum,573959,Accessories,3878.15,0,3,Yes,COD
+2,Other,18,Dhaka,Regular,1282335,Traditional Wear,2753.63,3,3,No,COD
+3,Female,35,Sylhet,Platinum,1103278,Bottoms,3591.77,4,4,No,Nagad
+4,Female,38,Sylhet,Platinum,920423,Accessories,3863.37,4,2,No,Nagad
+5,Male,37,Dhaka,Gold,814407,Traditional Wear,3335.53,5,2,No,Nagad
+6,Male,42,Khulna,Platinum,757558,Bottoms,2794.53,5,1,No,Nagad
+7,Male,40,Mymensingh,Silver,609616,Traditional Wear,3381.17,2,3,No,Debit Card
+8,Female,36,Barisal,Regular,815496,Traditional Wear,1960.91,3,2,Yes,bKash
+9,Female,31,Khulna,Regular,851550,Accessories,3071.11,3,1,No,bKash
+10,Female,18,Mymensingh,Silver,551647,Bottoms,2766.87,2,4,No,COD
+11,Male,36,Sylhet,Regular,866835,Accessories,2610.13,2,3,No,bKash
+12,Other,34,Rajshahi,Silver,768948,Tops,1273.48,4,5,No,COD
+13,Female,34,Mymensingh,Platinum,418438,Tops,1972.4,1,4,No,bKash
+14,Male,19,Dhaka,Regular,627922,Bottoms,2514.11,6,1,No,Credit Card
+15,Male,21,Sylhet,Gold,717278,Traditional Wear,3895.04,1,4,No,Credit Card
+16,Male,42,Sylhet,Platinum,1177537,Accessories,3285.82,4,5,No,bKash
+17,Male,31,Barisal,Platinum,911310,Accessories,3939.67,2,4,No,Debit Card
+18,Female,38,Dhaka,Platinum,532903,Bottoms,4242.91,4,1,No,COD
+19,Male,32,Barisal,Silver,897207,Bottoms,3329.31,3,5,No,bKash
+20,Male,32,Dhaka,Platinum,490539,Tops,3140.29,5,5,No,COD
+21,Female,41,Barisal,Gold,1016538,Shoes,2027.01,5,4,No,Nagad
+22,Male,26,Mymensingh,Regular,705775,Bottoms,4986.67,1,5,No,bKash
+23,Male,32,Khulna,Regular,781272,Shoes,1582.16,4,4,No,Debit Card
+24,Male,27,Rajshahi,Gold,1065159,Bottoms,3118.73,2,3,No,Nagad
+25,Female,27,Rajshahi,Regular,542567,Traditional Wear,3832.8,3,5,No,bKash
+26,Female,28,Dhaka,Silver,520576,Traditional Wear,3846.74,1,4,No,Credit Card
+27,Male,34,Chattogram,Silver,683280,Tops,1844.91,4,3,No,bKash
+28,Female,27,Rangpur,Regular,1007675,Tops,2580.1,3,5,No,Credit Card
+29,Female,44,Sylhet,Silver,496130,Shoes,2201.05,4,3,No,Credit Card
+30,Male,23,Sylhet,Gold,233568,Bottoms,1019.57,4,5,No,bKash
+31,Female,30,Dhaka,Regular,709768,Accessories,3130.33,4,1,Yes,bKash
+32,Male,27,Mymensingh,Regular,910348,Tops,2282.38,3,1,No,Credit Card
+33,Male,46,Barisal,Regular,1040052,Accessories,4505.48,1,4,Yes,COD
+34,Other,33,Chattogram,Regular,707367,Accessories,3615.17,5,2,No,Nagad
+35,Other,42,Khulna,Platinum,717714,Bottoms,3041.4,5,1,No,Debit Card
+36,Female,18,Barisal,Regular,1030780,Shoes,2527.3,4,2,Yes,bKash
+37,Male,34,Barisal,Silver,426051,Bottoms,3115.12,5,3,Yes,Nagad
+38,Male,40,Dhaka,Regular,722295,Tops,2744.13,3,3,No,Nagad
+39,Female,32,Dhaka,Regular,838084,Accessories,3069.54,2,2,No,COD
+40,Male,42,Mymensingh,Gold,889843,Bottoms,4901.64,5,4,No,Nagad
+41,Male,26,Sylhet,Gold,698038,Bottoms,1935.24,6,5,Yes,bKash
+42,Female,46,Dhaka,Regular,806888,Bottoms,2831.36,3,2,No,Nagad
+43,Male,54,Dhaka,Regular,302334,Tops,3706.39,0,2,No,bKash
+44,Other,28,Dhaka,Regular,668350,Shoes,2599.86,3,2,Yes,bKash
+45,Male,27,Mymensingh,Regular,890701,Bottoms,4580.54,1,2,No,Credit Card
+46,Female,46,Sylhet,Silver,603541,Tops,3678.46,0,2,Yes,COD
+47,Male,47,Khulna,Regular,811796,Accessories,2281.11,1,4,No,Debit Card
+48,Female,26,Khulna,Regular,889374,Traditional Wear,3204.07,4,1,No,Credit Card
+49,Female,27,Rangpur,Regular,731490,Tops,2295.39,2,5,No,Debit Card
+50,Male,29,Rangpur,Platinum,834092,Traditional Wear,2203.34,8,1,No,bKash
+51,Other,18,Dhaka,Platinum,607453,Bottoms,2859.8,7,2,No,Credit Card
+52,Female,22,Rangpur,Regular,758677,Bottoms,4263.76,3,1,No,Nagad
+53,Other,21,Sylhet,Gold,922043,Tops,3745.45,3,4,No,Nagad
+54,Female,24,Mymensingh,Regular,831394,Traditional Wear,2977.42,3,3,No,Debit Card
+55,Female,31,Khulna,Regular,682693,Bottoms,3781.19,0,1,No,bKash
+56,Other,34,Barisal,Gold,844843,Accessories,3268.62,3,5,No,Debit Card
+57,Male,47,Khulna,Platinum,942921,Shoes,1830.11,3,4,No,COD
+58,Male,22,Khulna,Platinum,390011,Shoes,2854.86,4,3,No,Nagad
+59,Male,41,Sylhet,Silver,1031814,Bottoms,2926.84,1,4,No,Credit Card
+60,Male,29,Rangpur,Regular,732749,Traditional Wear,3761.69,3,2,No,Credit Card
+61,Male,31,Barisal,Gold,885097,Bottoms,2433.53,4,3,Yes,Credit Card
+62,Male,38,Sylhet,Regular,1039449,Traditional Wear,2087.34,4,5,No,Nagad
+63,Female,20,Dhaka,Silver,525665,Accessories,2954.45,2,3,No,bKash
+64,Male,35,Mymensingh,Regular,658111,Traditional Wear,2354.58,5,5,No,Nagad
+65,Male,33,Rajshahi,Silver,742290,Bottoms,2676.49,2,2,No,Nagad
+66,Female,36,Khulna,Regular,643249,Accessories,2919.12,4,5,Yes,Credit Card
+67,Male,34,Rajshahi,Regular,1146987,Tops,2616.96,3,4,No,Nagad
+68,Female,56,Mymensingh,Platinum,628645,Shoes,3963.18,3,1,No,Credit Card
+69,Male,25,Mymensingh,Regular,688890,Bottoms,4414.3,2,4,No,bKash
+70,Other,26,Sylhet,Silver,840877,Bottoms,3862.91,2,4,No,COD
+71,Female,25,Sylhet,Regular,559570,Bottoms,1228.8,1,3,No,Credit Card
+72,Male,26,Sylhet,Regular,720863,Accessories,2358.03,3,2,No,Debit Card
+73,Male,25,Rajshahi,Regular,863490,Tops,2821.35,5,1,Yes,COD
+74,Female,43,Sylhet,Regular,733427,Traditional Wear,1153.73,1,5,Yes,bKash
+75,Female,46,Mymensingh,Gold,781322,Tops,2124.11,2,3,No,COD
+76,Female,26,Dhaka,Regular,694133,Accessories,2808.57,3,2,No,Credit Card
+77,Female,23,Sylhet,Platinum,497105,Bottoms,2551.03,2,1,No,bKash
+78,Male,36,Chattogram,Silver,864318,Shoes,3008.65,3,4,No,Debit Card
+79,Male,26,Rangpur,Regular,1150986,Bottoms,1619.17,4,2,Yes,Credit Card
+80,Male,38,Rajshahi,Silver,803680,Traditional Wear,2539.72,1,2,No,Credit Card
+81,Female,34,Chattogram,Silver,845052,Shoes,3151.91,1,2,No,bKash
+82,Female,18,Sylhet,Gold,938544,Bottoms,3010.2,3,4,No,bKash
+83,Male,47,Mymensingh,Regular,546133,Shoes,3446.89,3,5,Yes,COD
+84,Male,49,Dhaka,Regular,1140502,Tops,3388.57,3,3,No,Debit Card
+85,Male,25,Khulna,Gold,840465,Accessories,2592.89,2,5,No,COD
+86,Male,28,Barisal,Platinum,1126371,Bottoms,3120.12,1,1,No,COD
+87,Female,34,Rangpur,Gold,653393,Traditional Wear,2200.01,3,3,No,Credit Card
+88,Female,35,Barisal,Regular,1163612,Tops,2729.77,5,1,Yes,bKash
+89,Female,38,Sylhet,Gold,955031,Bottoms,1944.38,0,4,Yes,Credit Card
+90,Female,52,Rangpur,Regular,910608,Tops,4065.42,8,5,Yes,Debit Card
+91,Male,30,Rangpur,Regular,846804,Traditional Wear,2726.51,4,2,No,COD
+92,Female,24,Dhaka,Regular,750294,Bottoms,4063.94,1,3,No,Debit Card
+93,Female,18,Rangpur,Silver,1040106,Traditional Wear,3311.5,6,2,No,bKash
+94,Female,24,Rajshahi,Regular,828071,Shoes,2114.34,0,1,Yes,bKash
+95,Female,31,Chattogram,Regular,406586,Traditional Wear,3251.11,7,2,No,Nagad
+96,Female,49,Chattogram,Gold,576562,Shoes,3809.72,1,2,No,Debit Card
+97,Female,26,Chattogram,Regular,762830,Bottoms,2922.42,3,4,No,Credit Card
+98,Male,34,Rajshahi,Regular,861999,Shoes,3074.03,1,4,No,Debit Card
+99,Male,31,Barisal,Regular,788682,Bottoms,2448.54,1,5,No,COD
+100,Male,43,Dhaka,Platinum,1043794,Bottoms,3024.1,2,1,No,bKash
+101,Male,57,Rangpur,Silver,409779,Accessories,3237.9,8,4,No,bKash
+102,Female,26,Rajshahi,Regular,828717,Bottoms,2421.18,2,4,No,Debit Card
+103,Male,27,Chattogram,Gold,436404,Shoes,1920.7,6,5,No,Debit Card
+104,Female,42,Sylhet,Gold,951942,Accessories,4287.97,3,3,No,Debit Card
+105,Other,38,Khulna,Regular,781108,Accessories,3604.12,3,5,No,COD
+106,Male,50,Rangpur,Silver,883921,Bottoms,2452.34,5,2,No,COD
+107,Male,37,Rajshahi,Gold,627223,Traditional Wear,3219.66,8,2,No,Credit Card
+108,Female,28,Mymensingh,Silver,1055892,Traditional Wear,1521.42,3,4,No,Debit Card
+109,Male,37,Rajshahi,Regular,1008344,Accessories,1022.93,2,4,No,Credit Card
+110,Male,43,Dhaka,Gold,916708,Bottoms,4084.13,2,5,No,Nagad
+111,Male,40,Dhaka,Silver,774096,Traditional Wear,3229.55,3,5,Yes,COD
+112,Male,37,Rajshahi,Regular,915971,Bottoms,2952.3,6,1,No,bKash
+113,Other,42,Chattogram,Regular,658621,Bottoms,3232.66,3,2,No,Nagad
+114,Female,43,Khulna,Regular,971111,Accessories,6226.13,4,5,No,bKash
+115,Female,45,Rangpur,Regular,1129896,Accessories,3869.1,4,3,No,Nagad
+116,Female,38,Dhaka,Gold,1014122,Tops,1954.56,3,1,Yes,Credit Card
+117,Female,30,Rangpur,Regular,654079,Traditional Wear,1319.62,4,5,No,Credit Card
+118,Male,33,Chattogram,Regular,872283,Traditional Wear,4054.54,5,4,No,COD
+119,Female,44,Rangpur,Silver,541371,Traditional Wear,3856.1,6,5,Yes,bKash
+120,Female,23,Sylhet,Regular,914478,Shoes,3575.06,3,4,No,Nagad
+121,Female,35,Dhaka,Platinum,890120,Bottoms,2187.12,4,4,No,Debit Card
+122,Female,28,Chattogram,Regular,426036,Accessories,3363.29,6,2,No,Debit Card
+123,Male,32,Chattogram,Regular,567643,Traditional Wear,2276.65,2,2,No,COD
+124,Male,44,Khulna,Regular,743372,Tops,3662.78,8,5,No,bKash
+125,Male,33,Khulna,Regular,739828,Traditional Wear,3982.66,3,5,No,Debit Card
+126,Male,32,Sylhet,Regular,558104,Bottoms,2456.53,1,3,No,COD
+127,Female,18,Chattogram,Gold,877795,Bottoms,4131.81,4,1,No,COD
+128,Female,39,Barisal,Platinum,850294,Accessories,3114.85,4,1,Yes,bKash
+129,Male,38,Chattogram,Regular,761146,Shoes,3491.87,1,5,No,Debit Card
+130,Female,53,Khulna,Silver,648841,Accessories,1690.37,1,2,No,Debit Card
+131,Male,28,Barisal,Gold,1009741,Traditional Wear,3232.21,5,3,No,Debit Card
+132,Male,34,Dhaka,Gold,1131081,Tops,2324.42,4,1,No,Credit Card
+133,Male,34,Dhaka,Regular,703287,Accessories,3474.63,3,5,No,Debit Card
+134,Male,47,Rangpur,Regular,677566,Shoes,4467.16,2,2,Yes,Nagad
+135,Other,31,Rajshahi,Regular,898241,Accessories,3289.52,1,2,No,Credit Card
+136,Male,34,Khulna,Gold,728394,Bottoms,2099.15,5,2,No,Credit Card
+137,Female,38,Rajshahi,Gold,772120,Traditional Wear,3626.47,5,4,No,Credit Card
+138,Female,33,Barisal,Regular,947930,Traditional Wear,3401.79,2,2,No,Credit Card
+139,Male,27,Khulna,Regular,418128,Traditional Wear,5058.6,4,5,No,COD
+140,Other,33,Sylhet,Platinum,1063660,Traditional Wear,3253.97,6,3,No,Nagad
+141,Other,42,Chattogram,Gold,814536,Traditional Wear,2414.53,2,5,No,bKash
+142,Male,21,Sylhet,Platinum,717701,Traditional Wear,3770.64,4,2,No,Debit Card
+143,Female,33,Barisal,Gold,782153,Tops,2872.32,3,3,Yes,Credit Card
+144,Male,24,Khulna,Regular,792485,Shoes,3080.25,4,1,No,bKash
+145,Male,43,Mymensingh,Silver,453759,Traditional Wear,2071.52,5,1,No,COD
+146,Male,18,Barisal,Silver,1098987,Shoes,2877.57,0,5,No,bKash
+147,Female,26,Mymensingh,Regular,808265,Traditional Wear,3030.8,4,3,Yes,Credit Card
+148,Female,35,Chattogram,Silver,888600,Accessories,2871.65,1,5,No,Nagad
+149,Male,47,Dhaka,Gold,990309,Traditional Wear,2409.11,1,3,Yes,bKash
+150,Male,31,Dhaka,Regular,595767,Bottoms,3288.23,3,3,No,Credit Card
+151,Other,26,Barisal,Gold,894694,Tops,2076.53,2,5,No,Credit Card
+152,Male,50,Rajshahi,Silver,746471,Accessories,1841.01,1,3,No,Debit Card
+153,Male,18,Khulna,Platinum,969354,Accessories,3709.54,2,2,No,Debit Card
+154,Female,18,Khulna,Regular,374554,Bottoms,3617.75,2,3,No,Nagad
+155,Other,36,Dhaka,Regular,780181,Traditional Wear,1692.4,4,3,Yes,Debit Card
+156,Male,26,Rangpur,Silver,679435,Tops,1170.44,5,5,No,Nagad
+157,Female,21,Sylhet,Regular,886452,Accessories,1991.26,3,1,No,COD
+158,Female,39,Rangpur,Gold,894008,Tops,2871.7,3,4,No,COD
+159,Male,34,Chattogram,Gold,658474,Accessories,4154.35,1,3,No,Debit Card
+160,Female,26,Sylhet,Regular,657565,Traditional Wear,2847.26,0,4,No,COD
+161,Male,19,Sylhet,Silver,777866,Accessories,2230.64,3,3,No,bKash
+162,Female,40,Barisal,Silver,620671,Accessories,3148.59,7,5,No,bKash
+163,Female,38,Dhaka,Regular,968396,Shoes,2885.98,1,5,No,bKash
+164,Female,31,Rangpur,Platinum,726158,Traditional Wear,1618.99,8,3,Yes,COD
+165,Male,50,Rangpur,Gold,218602,Bottoms,1624.94,4,5,No,bKash
+166,Female,21,Dhaka,Silver,725035,Bottoms,1651.8,5,5,No,Nagad
+167,Male,18,Rangpur,Gold,592291,Traditional Wear,5479.85,3,3,No,Credit Card
+168,Male,25,Mymensingh,Regular,473744,Bottoms,3859.98,4,1,No,Debit Card
+169,Male,31,Dhaka,Platinum,552514,Traditional Wear,2406.28,4,3,No,Nagad
+170,Female,34,Barisal,Silver,821881,Bottoms,4108.27,3,1,Yes,bKash
+171,Female,29,Rajshahi,Gold,1065728,Shoes,2431.94,4,5,Yes,Credit Card
+172,Male,35,Sylhet,Gold,862636,Bottoms,4075.18,4,1,No,Debit Card
+173,Female,19,Barisal,Regular,678699,Accessories,3080.31,4,5,No,Nagad
+174,Male,46,Khulna,Gold,891180,Traditional Wear,2341.15,3,1,No,Debit Card
+175,Female,31,Chattogram,Regular,708181,Tops,3679.82,7,1,No,COD
+176,Male,43,Rajshahi,Regular,661079,Tops,3137.52,3,3,No,bKash
+177,Female,35,Khulna,Regular,569127,Traditional Wear,3398.27,1,1,No,Nagad
+178,Male,36,Sylhet,Platinum,449634,Shoes,3215.51,5,5,No,Nagad
+179,Other,37,Rangpur,Gold,722015,Bottoms,3205.01,3,3,No,Credit Card
+180,Male,36,Dhaka,Gold,831610,Shoes,3800.55,4,1,No,Credit Card
+181,Male,38,Sylhet,Gold,780675,Tops,5583.81,3,3,No,Credit Card
+182,Male,45,Barisal,Silver,716806,Traditional Wear,4248.79,3,4,No,Debit Card
+183,Other,33,Chattogram,Platinum,610850,Traditional Wear,3219.65,4,3,Yes,bKash
+184,Female,39,Barisal,Regular,921649,Shoes,2689.39,0,4,No,Debit Card
+185,Male,31,Rajshahi,Regular,536573,Shoes,2799.27,3,4,Yes,bKash
+186,Female,46,Rajshahi,Regular,955205,Bottoms,1743.87,5,3,Yes,Nagad
+187,Female,25,Chattogram,Gold,599556,Accessories,3664.54,3,5,Yes,Debit Card
+188,Female,50,Mymensingh,Gold,649512,Accessories,1985.08,2,5,No,Debit Card
+189,Female,31,Khulna,Regular,506642,Bottoms,2627.55,2,5,No,Debit Card
+190,Male,18,Khulna,Regular,699719,Accessories,3670.35,4,2,No,COD
+191,Male,33,Rajshahi,Gold,995062,Tops,2762.67,5,4,No,bKash
+192,Female,25,Rajshahi,Regular,903125,Accessories,2507.71,6,3,No,bKash
+193,Other,40,Rangpur,Gold,995684,Bottoms,1802.52,4,5,No,Debit Card
+194,Female,25,Dhaka,Platinum,904428,Accessories,4205.33,3,5,No,COD
+195,Male,27,Rangpur,Regular,579266,Traditional Wear,2166.78,7,3,No,Debit Card
+196,Male,18,Rangpur,Regular,733842,Shoes,2414.12,2,4,No,bKash
+197,Female,27,Mymensingh,Gold,643960,Tops,1208.27,2,3,No,Nagad
+198,Female,18,Khulna,Gold,1066114,Traditional Wear,2980.14,3,2,No,COD
+199,Female,18,Mymensingh,Silver,560642,Traditional Wear,2666.71,2,2,No,COD
+200,Female,39,Mymensingh,Platinum,978739,Bottoms,3181.86,3,3,No,Debit Card
+201,Female,39,Chattogram,Regular,978590,Shoes,1825.37,2,4,No,Nagad
+202,Male,36,Khulna,Silver,1165924,Shoes,3734.18,2,5,No,bKash
+203,Male,22,Dhaka,Gold,718062,Tops,1160.79,3,2,No,Credit Card
+204,Female,31,Barisal,Gold,942464,Bottoms,2907.82,6,2,No,bKash
+205,Female,31,Rajshahi,Regular,1256330,Tops,3115.49,2,4,No,bKash
+206,Male,20,Rajshahi,Gold,676471,Accessories,3057.77,7,2,No,Nagad
+207,Male,47,Dhaka,Silver,492991,Traditional Wear,3157.75,3,2,No,COD
+208,Female,40,Mymensingh,Regular,423997,Tops,3788.67,4,4,No,bKash
+209,Male,29,Rangpur,Regular,942542,Traditional Wear,4324.7,1,3,No,COD
+210,Male,32,Chattogram,Gold,423369,Bottoms,2844.39,0,5,No,Nagad
+211,Female,34,Mymensingh,Regular,725536,Accessories,2032.16,3,5,No,Nagad
+212,Female,18,Rajshahi,Regular,887462,Bottoms,3560.72,4,2,No,Debit Card
+213,Female,29,Sylhet,Regular,837035,Accessories,2719.76,2,5,No,Credit Card
+214,Male,25,Rangpur,Gold,885088,Accessories,4264.62,3,3,No,Nagad
+215,Female,21,Rajshahi,Silver,844457,Traditional Wear,2398.03,6,2,No,Nagad
+216,Male,29,Sylhet,Gold,1055773,Bottoms,2141.99,3,5,No,COD
+217,Male,49,Mymensingh,Regular,609536,Bottoms,3143.79,2,1,No,Nagad
+218,Female,38,Dhaka,Silver,664600,Tops,1259.58,1,1,No,bKash
+219,Female,26,Dhaka,Silver,645468,Bottoms,2532.57,3,1,No,Debit Card
+220,Female,37,Rangpur,Gold,966038,Tops,2670.16,4,1,No,Debit Card
+221,Female,45,Rajshahi,Platinum,980079,Shoes,3220.47,3,1,Yes,bKash
+222,Female,41,Khulna,Regular,890245,Shoes,2003.73,2,2,No,Nagad
+223,Male,32,Sylhet,Silver,1036698,Shoes,2120.5,3,4,No,Credit Card
+224,Male,25,Chattogram,Regular,564391,Bottoms,4156.91,0,4,Yes,Nagad
+225,Male,38,Rajshahi,Silver,1133444,Bottoms,2986.54,2,2,No,Debit Card
+226,Male,35,Chattogram,Regular,1104647,Tops,3864.64,6,2,No,Credit Card
+227,Other,40,Rajshahi,Regular,947124,Accessories,2458.21,2,3,No,COD
+228,Male,38,Khulna,Regular,1156359,Tops,2945.55,3,4,No,COD
+229,Female,42,Khulna,Silver,468675,Shoes,3214.53,5,1,No,Nagad
+230,Female,26,Rangpur,Regular,695110,Tops,4747.55,3,2,No,Nagad
+231,Female,45,Rangpur,Gold,652939,Accessories,2782.38,3,1,No,Credit Card
+232,Female,33,Khulna,Regular,944295,Bottoms,2833.73,2,4,No,Credit Card
+233,Female,52,Barisal,Regular,589971,Tops,4098.15,3,5,No,Nagad
+234,Female,25,Khulna,Gold,951499,Shoes,2620.19,0,5,No,Debit Card
+235,Male,49,Dhaka,Regular,1074107,Shoes,3284.63,2,2,No,COD
+236,Female,33,Dhaka,Regular,939040,Bottoms,4010.96,1,3,No,Credit Card
+237,Male,25,Barisal,Silver,856750,Tops,2424.16,1,1,Yes,Debit Card
+238,Male,27,Mymensingh,Regular,602425,Accessories,3340.46,3,2,No,Nagad
+239,Female,28,Sylhet,Regular,630629,Bottoms,4745.55,7,3,No,bKash
+240,Male,36,Mymensingh,Regular,1049923,Tops,3921.32,3,1,No,Credit Card
+241,Other,37,Chattogram,Platinum,955869,Traditional Wear,3284.93,2,4,No,bKash
+242,Other,26,Mymensingh,Silver,792196,Shoes,2775.68,2,5,No,Debit Card
+243,Other,31,Rajshahi,Silver,716418,Accessories,2395.68,3,3,No,COD
+244,Male,53,Mymensingh,Silver,394838,Accessories,2011.81,6,1,No,Debit Card
+245,Male,49,Rajshahi,Regular,585829,Accessories,4509.62,3,2,No,COD
+246,Other,36,Barisal,Regular,1182283,Shoes,4315.47,2,1,No,Debit Card
+247,Male,32,Dhaka,Gold,543908,Tops,2342.89,3,2,No,Credit Card
+248,Other,33,Rangpur,Regular,837895,Bottoms,3337.69,6,5,No,Credit Card
+249,Other,38,Rajshahi,Regular,1001488,Tops,3111.33,1,5,No,bKash
+250,Female,21,Dhaka,Regular,549015,Bottoms,4184.42,2,1,No,Debit Card
+251,Male,29,Sylhet,Regular,836942,Accessories,3382.8,5,1,Yes,Debit Card
+252,Male,18,Chattogram,Platinum,987583,Tops,2977.18,4,2,No,bKash
+253,Female,35,Sylhet,Regular,802499,Accessories,2458.31,2,2,No,Nagad
+254,Male,38,Barisal,Silver,1373680,Traditional Wear,3340.87,2,3,Yes,Debit Card
+255,Male,27,Mymensingh,Regular,466280,Accessories,2651.82,3,3,Yes,Debit Card
+256,Female,47,Mymensingh,Platinum,1011745,Accessories,3220.68,3,3,No,Debit Card
+257,Other,19,Khulna,Regular,765439,Bottoms,2924.03,3,1,No,Nagad
+258,Female,18,Khulna,Regular,954384,Traditional Wear,2627.51,6,3,No,Credit Card
+259,Female,34,Khulna,Gold,888261,Accessories,2027.26,0,1,No,bKash
+260,Male,42,Sylhet,Gold,653368,Accessories,3514.2,4,5,No,Nagad
+261,Female,48,Rajshahi,Regular,845799,Traditional Wear,3042.57,1,4,No,COD
+262,Other,27,Chattogram,Regular,428419,Traditional Wear,4787.42,4,5,No,COD
+263,Male,42,Khulna,Regular,920649,Tops,1967.66,1,1,No,Nagad
+264,Female,31,Barisal,Regular,859631,Bottoms,3625.3,1,1,No,Nagad
+265,Female,30,Barisal,Regular,927732,Traditional Wear,2917.35,3,4,No,Credit Card
+266,Female,40,Khulna,Regular,1011623,Traditional Wear,5099.76,2,2,No,COD
+267,Female,38,Mymensingh,Regular,873523,Shoes,3548.97,0,2,No,bKash
+268,Female,18,Khulna,Regular,829617,Traditional Wear,3324.69,2,2,No,Debit Card
+269,Male,46,Chattogram,Silver,623786,Bottoms,2919.9,3,3,No,Debit Card
+270,Male,45,Khulna,Platinum,657555,Accessories,2296.88,3,2,No,Credit Card
+271,Female,25,Chattogram,Silver,1037346,Accessories,3311.39,2,3,No,Credit Card
+272,Female,35,Barisal,Regular,1087267,Accessories,1617.7,10,3,No,COD
+273,Female,36,Khulna,Regular,752377,Accessories,1663.72,4,2,Yes,bKash
+274,Other,34,Sylhet,Platinum,809200,Shoes,4012.44,2,2,No,bKash
+275,Female,26,Rangpur,Regular,619077,Traditional Wear,1237.88,2,4,No,Nagad
+276,Female,25,Sylhet,Regular,1034551,Accessories,2680.43,3,4,No,Credit Card
+277,Female,31,Barisal,Silver,933083,Tops,1950.87,3,3,Yes,Debit Card
+278,Female,43,Chattogram,Silver,1188243,Accessories,2597.53,3,4,No,Debit Card
+279,Female,37,Sylhet,Silver,624335,Traditional Wear,3184.55,0,3,No,COD
+280,Female,28,Chattogram,Regular,724398,Accessories,3984.56,0,1,No,Debit Card
+281,Female,39,Sylhet,Regular,846289,Shoes,4217.63,4,3,No,bKash
+282,Male,18,Sylhet,Platinum,929297,Bottoms,2081.05,2,3,No,bKash
+283,Male,43,Chattogram,Regular,756866,Bottoms,2534.04,4,4,No,Credit Card
+284,Male,18,Rajshahi,Silver,625407,Traditional Wear,7052.55,2,1,No,COD
+285,Female,28,Sylhet,Gold,976281,Bottoms,2749.99,1,5,No,Debit Card
+286,Male,20,Khulna,Silver,944227,Bottoms,2117.79,2,5,No,Credit Card
+287,Female,19,Rangpur,Regular,616745,Tops,2284.2,2,5,No,Nagad
+288,Female,43,Barisal,Regular,1071088,Traditional Wear,2755.86,4,1,No,Nagad
+289,Male,27,Rajshahi,Silver,1034039,Traditional Wear,2607.26,2,2,No,Debit Card
+290,Female,35,Chattogram,Gold,826859,Bottoms,2765.63,3,1,No,Debit Card
+291,Male,31,Rajshahi,Platinum,815919,Bottoms,2978.57,0,4,No,Debit Card
+292,Male,36,Dhaka,Regular,910811,Bottoms,2971.59,2,3,No,bKash
+293,Female,32,Dhaka,Regular,627659,Shoes,2044.51,1,3,No,Debit Card
+294,Male,19,Sylhet,Platinum,806006,Accessories,3369.33,5,4,No,Nagad
+295,Male,41,Sylhet,Gold,369523,Shoes,3121.05,4,4,No,Debit Card
+296,Female,27,Khulna,Gold,975291,Traditional Wear,3496.58,6,3,No,COD
+297,Female,18,Rangpur,Regular,487701,Tops,1285.55,3,2,No,Nagad
+298,Male,27,Barisal,Silver,1100683,Accessories,3156.84,11,2,No,COD
+299,Female,47,Rajshahi,Gold,733975,Tops,1014.4,1,2,No,Nagad
+300,Male,40,Dhaka,Silver,757666,Traditional Wear,2824.43,1,4,Yes,Credit Card
+301,Male,28,Sylhet,Regular,674453,Traditional Wear,3657.94,2,3,Yes,Nagad
+302,Female,28,Mymensingh,Regular,742392,Tops,4045.78,4,3,No,Nagad
+303,Female,28,Mymensingh,Silver,1083706,Tops,3334.46,2,3,No,COD
+304,Female,52,Barisal,Regular,302438,Tops,3675.39,2,1,No,COD
+305,Female,35,Rajshahi,Regular,1055393,Traditional Wear,2701,2,1,No,Nagad
+306,Other,36,Sylhet,Platinum,867604,Bottoms,2490.83,3,5,No,Nagad
+307,Female,42,Sylhet,Regular,558595,Tops,5692.76,1,1,Yes,bKash
+308,Male,34,Dhaka,Gold,584937,Accessories,3827.16,0,2,No,Credit Card
+309,Female,29,Dhaka,Regular,1135278,Traditional Wear,1827.02,1,2,No,Credit Card
+310,Male,30,Sylhet,Silver,610898,Shoes,1265.34,3,2,No,Debit Card
+311,Male,31,Chattogram,Platinum,569329,Shoes,2534.93,7,2,No,Nagad
+312,Male,31,Sylhet,Regular,1027462,Accessories,4191.87,4,5,No,Nagad
+313,Male,39,Barisal,Regular,867710,Bottoms,3048.74,6,2,No,Nagad
+314,Other,32,Sylhet,Regular,612414,Tops,775.98,5,4,No,Nagad
+315,Female,39,Khulna,Regular,843324,Traditional Wear,2822.71,2,4,No,Credit Card
+316,Female,31,Rangpur,Gold,594849,Tops,2997.6,3,4,No,COD
+317,Male,32,Khulna,Platinum,1020164,Traditional Wear,584.33,5,1,No,bKash
+318,Male,18,Khulna,Regular,1012274,Shoes,3024.17,5,3,Yes,COD
+319,Male,41,Chattogram,Regular,906401,Tops,1986.63,3,5,Yes,COD
+320,Male,35,Chattogram,Regular,872332,Accessories,1164.45,4,4,No,Credit Card
+321,Female,41,Mymensingh,Gold,1152237,Bottoms,4604.51,3,4,No,bKash
+322,Female,18,Sylhet,Regular,799937,Accessories,1942.4,0,2,No,Nagad
+323,Female,52,Khulna,Silver,563625,Bottoms,2332.72,7,4,No,Credit Card
+324,Male,30,Chattogram,Silver,889894,Tops,2319.42,2,2,Yes,Credit Card
+325,Other,43,Dhaka,Silver,1217209,Tops,3002.24,5,2,No,bKash
+326,Female,21,Sylhet,Regular,597048,Bottoms,4766.31,1,3,Yes,Debit Card
+327,Female,38,Barisal,Gold,727707,Shoes,1803.81,1,1,No,Credit Card
+328,Female,21,Rangpur,Regular,883289,Traditional Wear,2693.2,1,2,Yes,COD
+329,Male,25,Rajshahi,Regular,789219,Accessories,3120.86,3,2,No,COD
+330,Male,51,Sylhet,Gold,603539,Accessories,2131.21,3,3,No,Nagad
+331,Male,30,Rajshahi,Gold,1024371,Accessories,2677.11,1,2,Yes,Credit Card
+332,Female,34,Khulna,Regular,1264008,Tops,3594.5,3,5,No,Nagad
+333,Male,40,Rangpur,Regular,839226,Accessories,2244.3,3,1,Yes,Credit Card
+334,Male,36,Rajshahi,Regular,619186,Traditional Wear,2661.36,7,5,No,bKash
+335,Male,33,Khulna,Regular,490207,Traditional Wear,2568.65,4,4,No,Credit Card
+336,Male,35,Dhaka,Regular,851595,Bottoms,2896.19,3,1,No,Debit Card
+337,Female,56,Rajshahi,Regular,1020775,Tops,3243.15,3,4,No,COD
+338,Female,31,Rangpur,Regular,895033,Traditional Wear,3586.56,1,2,Yes,bKash
+339,Female,34,Mymensingh,Gold,799519,Shoes,4937.55,5,3,No,COD
+340,Male,42,Sylhet,Silver,682145,Tops,500,2,5,No,Nagad
+341,Female,43,Khulna,Silver,581567,Tops,2832.61,2,4,No,bKash
+342,Female,43,Sylhet,Regular,966950,Traditional Wear,1635.56,2,2,No,Debit Card
+343,Male,38,Rangpur,Platinum,982754,Shoes,2614.63,5,5,No,COD
+344,Male,20,Chattogram,Gold,490854,Bottoms,3880.87,2,5,No,Credit Card
+345,Male,48,Khulna,Gold,1117967,Traditional Wear,4197.79,1,4,No,Credit Card
+346,Female,20,Rajshahi,Gold,914814,Shoes,4244.71,7,2,No,Credit Card
+347,Female,35,Khulna,Platinum,1079918,Tops,4235.29,6,3,No,bKash
+348,Male,24,Sylhet,Silver,531574,Shoes,2826.06,2,4,No,Debit Card
+349,Male,31,Dhaka,Regular,526835,Tops,4398.53,2,5,No,Debit Card
+350,Female,35,Khulna,Silver,770206,Traditional Wear,4596.85,3,5,Yes,Debit Card
+351,Female,35,Rajshahi,Gold,900556,Traditional Wear,3138.8,4,1,No,COD
+352,Female,36,Chattogram,Gold,1159272,Accessories,4177.24,2,2,No,bKash
+353,Female,48,Mymensingh,Silver,941215,Accessories,3041.24,2,1,No,Credit Card
+354,Male,36,Barisal,Regular,751463,Accessories,4410.23,2,3,No,COD
+355,Male,29,Dhaka,Regular,594726,Traditional Wear,2838.34,4,4,No,Debit Card
+356,Female,41,Mymensingh,Platinum,1046000,Bottoms,2390.48,5,5,No,Credit Card
+357,Male,43,Chattogram,Silver,607058,Traditional Wear,1880.01,3,2,No,bKash
+358,Female,19,Khulna,Silver,1125693,Shoes,2826.37,3,5,Yes,Nagad
+359,Other,37,Sylhet,Regular,743123,Traditional Wear,3084.39,2,1,Yes,Debit Card
+360,Female,39,Rangpur,Regular,1118116,Traditional Wear,2054.15,5,1,No,Debit Card
+361,Male,29,Sylhet,Gold,935786,Tops,2749.89,2,4,No,Debit Card
+362,Female,45,Mymensingh,Silver,772600,Tops,2473.45,3,2,No,Debit Card
+363,Female,30,Rajshahi,Gold,696120,Tops,1923.02,3,2,No,Credit Card
+364,Female,33,Sylhet,Regular,731818,Traditional Wear,4035.88,2,4,No,bKash
+365,Other,30,Dhaka,Silver,885663,Bottoms,4211.9,1,1,No,COD
+366,Male,32,Sylhet,Regular,815431,Shoes,4031.43,1,1,No,Credit Card
+367,Other,21,Rajshahi,Gold,681237,Shoes,2915.84,4,1,No,bKash
+368,Other,18,Barisal,Regular,766873,Bottoms,2977.62,1,5,No,COD
+369,Male,47,Khulna,Regular,815715,Bottoms,1936.83,3,3,No,Debit Card
+370,Male,23,Rangpur,Silver,374253,Shoes,3414.63,2,1,No,bKash
+371,Male,22,Mymensingh,Platinum,891633,Accessories,3169.63,1,3,No,Debit Card
+372,Male,18,Khulna,Regular,604055,Tops,5843.95,6,3,No,bKash
+373,Male,25,Sylhet,Gold,569333,Tops,4087.1,2,2,No,Nagad
+374,Female,18,Chattogram,Regular,462531,Shoes,3315.24,4,4,No,Debit Card
+375,Male,48,Khulna,Regular,441221,Bottoms,2958.39,4,5,No,Debit Card
+376,Male,42,Barisal,Regular,528910,Accessories,4001.31,7,3,No,Debit Card
+377,Female,25,Sylhet,Regular,658195,Shoes,2084.26,2,5,No,Credit Card
+378,Male,54,Rangpur,Silver,1190651,Tops,4139.64,8,2,No,COD
+379,Female,41,Rajshahi,Regular,694824,Traditional Wear,1912.86,3,1,No,Debit Card
+380,Male,28,Barisal,Regular,835550,Bottoms,2438.48,4,3,No,Debit Card
+381,Male,18,Sylhet,Platinum,880096,Traditional Wear,1161.82,4,4,No,Credit Card
+382,Female,54,Barisal,Regular,826213,Shoes,3614.08,5,2,No,Credit Card
+383,Female,18,Khulna,Gold,784511,Tops,3249.93,1,5,No,Nagad
+384,Female,18,Rangpur,Regular,560941,Accessories,2438.52,3,1,No,bKash
+385,Female,42,Rajshahi,Silver,1090185,Traditional Wear,2070.86,2,5,No,Debit Card
+386,Female,56,Sylhet,Regular,1161439,Accessories,4378.72,1,4,No,bKash
+387,Male,45,Dhaka,Regular,463468,Tops,2866.4,2,3,No,Credit Card
+388,Male,37,Mymensingh,Regular,595194,Traditional Wear,2232.7,3,4,No,Credit Card
+389,Female,37,Rajshahi,Regular,744037,Accessories,4921.93,7,5,No,Nagad
+390,Female,40,Dhaka,Regular,607092,Accessories,2342.94,4,5,No,COD
+391,Other,39,Barisal,Silver,901193,Traditional Wear,4138.62,1,4,No,Credit Card
+392,Male,34,Chattogram,Gold,654345,Tops,1849.01,1,4,No,Debit Card
+393,Male,33,Rajshahi,Gold,1233011,Accessories,2645.05,1,4,No,Nagad
+394,Female,31,Barisal,Silver,1038109,Shoes,3502.29,4,1,Yes,COD
+395,Male,24,Dhaka,Regular,842514,Traditional Wear,2942.16,6,5,No,Nagad
+396,Other,29,Khulna,Regular,1005397,Bottoms,3243.76,6,2,No,Credit Card
+397,Female,18,Khulna,Regular,1021180,Bottoms,2461.17,0,1,No,COD
+398,Male,31,Chattogram,Regular,687210,Tops,1402.2,8,1,No,bKash
+399,Female,22,Mymensingh,Silver,636756,Shoes,4465.58,3,1,No,COD
+400,Female,20,Rajshahi,Silver,815628,Accessories,2522.17,4,2,Yes,Debit Card
+401,Male,33,Rajshahi,Regular,972327,Bottoms,3289.01,2,4,No,bKash
+402,Other,45,Rajshahi,Regular,827812,Tops,3701.96,2,5,No,bKash
+403,Female,41,Mymensingh,Gold,484600,Shoes,3308.76,2,3,No,Debit Card
+404,Female,18,Barisal,Gold,639435,Shoes,2291.41,0,3,No,bKash
+405,Male,22,Rangpur,Regular,785205,Tops,4159.76,6,5,No,Credit Card
+406,Female,41,Rangpur,Platinum,784866,Tops,3513.68,4,2,No,COD
+407,Male,22,Chattogram,Platinum,1194508,Accessories,3198.77,3,3,Yes,COD
+408,Male,29,Rajshahi,Regular,522802,Tops,3175.58,3,1,No,Debit Card
+409,Other,37,Barisal,Regular,901117,Accessories,4682.26,1,3,Yes,Credit Card
+410,Male,22,Khulna,Silver,1097822,Accessories,2269.94,5,5,No,bKash
+411,Male,33,Dhaka,Platinum,1254289,Traditional Wear,3415.26,3,1,No,COD
+412,Other,18,Barisal,Gold,719120,Shoes,2471.37,4,3,No,COD
+413,Other,25,Mymensingh,Regular,898285,Shoes,1063.69,2,5,No,COD
+414,Female,35,Rangpur,Regular,913952,Shoes,1037.27,0,2,Yes,COD
+415,Female,18,Rangpur,Silver,839096,Traditional Wear,1985.36,1,5,Yes,Nagad
+416,Male,36,Khulna,Silver,780230,Accessories,2341.56,1,2,Yes,Debit Card
+417,Male,31,Khulna,Regular,887195,Accessories,5172.95,4,1,Yes,bKash
+418,Male,37,Mymensingh,Gold,293550,Tops,3698.39,0,5,No,bKash
+419,Female,34,Dhaka,Silver,936413,Traditional Wear,3788.34,2,4,No,Debit Card
+420,Female,45,Khulna,Gold,825235,Tops,2362.92,3,4,No,Credit Card
+421,Female,33,Chattogram,Gold,755505,Traditional Wear,3061.33,3,4,No,Debit Card
+422,Female,27,Dhaka,Gold,1209372,Tops,5306.15,3,4,No,COD
+423,Male,33,Khulna,Regular,665013,Bottoms,1785.58,1,4,No,COD
+424,Female,37,Sylhet,Silver,719384,Shoes,3456.24,2,2,No,Debit Card
+425,Male,32,Barisal,Regular,1198310,Shoes,4611.3,3,5,No,Debit Card
+426,Female,32,Khulna,Silver,633587,Accessories,3965.94,4,1,No,bKash
+427,Male,24,Chattogram,Regular,689976,Bottoms,4801.54,4,4,No,bKash
+428,Female,25,Rajshahi,Silver,770594,Shoes,3212.87,1,4,No,Nagad
+429,Male,18,Khulna,Regular,968146,Accessories,3603.45,0,1,Yes,Nagad
+430,Male,49,Rangpur,Regular,841560,Bottoms,3109.77,3,1,No,COD
+431,Male,19,Rangpur,Regular,541474,Shoes,3533.35,4,4,Yes,Nagad
+432,Female,25,Rangpur,Regular,693566,Tops,2084.79,0,2,Yes,Nagad
+433,Female,24,Rajshahi,Gold,678529,Traditional Wear,3792.35,1,1,Yes,Credit Card
+434,Male,40,Rangpur,Gold,784555,Bottoms,3294.25,4,5,No,Debit Card
+435,Male,29,Sylhet,Silver,885168,Accessories,3062.66,2,5,No,bKash
+436,Female,44,Khulna,Regular,883641,Bottoms,4746.39,5,2,No,Nagad
+437,Male,25,Mymensingh,Regular,444797,Accessories,2734.61,5,3,No,bKash
+438,Female,34,Rangpur,Regular,1012788,Bottoms,4207.82,4,2,No,Nagad
+439,Female,23,Dhaka,Regular,850513,Accessories,4307.28,2,4,No,Nagad
+440,Male,53,Mymensingh,Gold,1076906,Shoes,3855.54,5,3,No,COD
+441,Male,20,Rajshahi,Regular,888839,Tops,2034.9,6,4,No,Credit Card
+442,Other,35,Sylhet,Regular,1020264,Shoes,3359.08,1,5,No,Debit Card
+443,Male,38,Dhaka,Regular,893309,Tops,4958.47,2,1,No,Debit Card
+444,Male,36,Dhaka,Regular,1069245,Shoes,1181.45,2,4,No,COD
+445,Female,30,Dhaka,Silver,904450,Shoes,2812.34,2,5,No,COD
+446,Other,30,Dhaka,Silver,780416,Bottoms,4162.31,3,2,No,Debit Card
+447,Other,32,Mymensingh,Regular,1254486,Traditional Wear,2884.68,1,4,No,Debit Card
+448,Female,30,Mymensingh,Regular,977807,Accessories,3809.89,4,5,Yes,Credit Card
+449,Male,41,Khulna,Regular,914748,Accessories,4409.19,2,1,No,Nagad
+450,Male,54,Rangpur,Regular,544739,Accessories,3232.01,0,4,Yes,Credit Card
+451,Female,26,Barisal,Regular,542338,Tops,3508.99,1,5,No,Debit Card
+452,Female,18,Khulna,Platinum,858543,Accessories,3091.87,5,4,No,Nagad
+453,Male,31,Khulna,Silver,829104,Accessories,3297.81,5,1,No,Debit Card
+454,Other,57,Sylhet,Silver,677175,Bottoms,5102.6,3,4,No,Credit Card
+455,Male,23,Sylhet,Regular,828196,Shoes,2936.05,2,4,No,Credit Card
+456,Female,48,Rangpur,Regular,1117725,Accessories,2646.85,1,5,No,Credit Card
+457,Male,48,Barisal,Silver,939080,Traditional Wear,4041.75,2,3,No,Nagad
+458,Female,26,Sylhet,Silver,571798,Accessories,2157.08,3,4,No,bKash
+459,Male,37,Rangpur,Gold,777698,Tops,2385.28,3,3,No,bKash
+460,Male,48,Rangpur,Regular,639006,Tops,2391.65,5,2,No,Debit Card
+461,Male,28,Mymensingh,Silver,722460,Tops,2744.13,3,4,No,Nagad
+462,Female,29,Chattogram,Regular,717276,Accessories,2787.8,2,3,No,COD
+463,Female,26,Mymensingh,Gold,704470,Bottoms,3699.1,5,2,No,bKash
+464,Female,21,Barisal,Silver,548972,Traditional Wear,2657.64,3,5,Yes,Nagad
+465,Other,25,Sylhet,Silver,774469,Accessories,3739.46,4,4,No,Nagad
+466,Male,19,Barisal,Regular,687878,Bottoms,3864.18,4,5,Yes,bKash
+467,Male,32,Khulna,Silver,214110,Bottoms,2346.49,4,2,No,Nagad
+468,Female,24,Khulna,Regular,1210594,Accessories,3842.71,5,5,No,Nagad
+469,Male,34,Barisal,Regular,1017753,Accessories,3933.42,4,5,No,bKash
+470,Other,18,Chattogram,Regular,724739,Bottoms,1239.06,4,1,Yes,Credit Card
+471,Male,35,Chattogram,Silver,803763,Bottoms,3293.48,0,2,No,Debit Card
+472,Other,40,Mymensingh,Regular,565669,Bottoms,2493.59,4,5,No,COD
+473,Male,18,Barisal,Regular,1139144,Accessories,4303.06,2,3,No,Debit Card
+474,Female,35,Sylhet,Gold,1179457,Bottoms,2483.39,5,2,No,Credit Card
+475,Female,44,Mymensingh,Regular,831338,Tops,1660.52,5,1,No,Credit Card
+476,Other,19,Rajshahi,Silver,1004706,Accessories,2970.18,2,4,Yes,Nagad
+477,Male,48,Chattogram,Regular,835057,Tops,2103.03,4,5,No,Debit Card
+478,Female,36,Dhaka,Regular,532654,Shoes,3849.59,0,3,Yes,Credit Card
+479,Other,24,Mymensingh,Gold,717635,Accessories,2191.39,2,1,No,Debit Card
+480,Female,31,Khulna,Regular,826385,Shoes,2982.49,0,2,No,Credit Card
+481,Female,37,Mymensingh,Regular,709090,Bottoms,4545.81,6,5,No,COD
+482,Female,32,Barisal,Silver,756269,Bottoms,4098.53,4,1,Yes,Credit Card
+483,Female,37,Dhaka,Silver,781720,Traditional Wear,3477.84,5,1,No,Debit Card
+484,Female,22,Barisal,Silver,783824,Bottoms,2872.42,6,3,No,Nagad
+485,Female,33,Rangpur,Regular,810451,Shoes,3382.9,5,4,No,Debit Card
+486,Other,18,Khulna,Regular,587878,Bottoms,3688.98,5,4,No,bKash
+487,Male,30,Khulna,Gold,656596,Accessories,2013.4,2,4,No,Debit Card
+488,Male,22,Chattogram,Silver,543083,Bottoms,3851.34,3,2,No,COD
+489,Other,24,Mymensingh,Gold,995563,Traditional Wear,1898.31,9,1,No,COD
+490,Female,44,Chattogram,Gold,378870,Bottoms,3572.45,0,2,No,COD
+491,Female,42,Dhaka,Gold,1030718,Shoes,1893.11,1,1,No,Credit Card
+492,Female,38,Mymensingh,Regular,1077269,Shoes,4962.8,3,3,No,COD
+493,Male,21,Rangpur,Regular,739563,Bottoms,3763.34,6,3,Yes,Debit Card
+494,Male,28,Barisal,Gold,279372,Shoes,1443.97,1,2,Yes,Nagad
+495,Female,44,Rangpur,Regular,727737,Shoes,2999.07,5,2,No,COD
+496,Male,33,Khulna,Regular,787163,Traditional Wear,2478.58,3,3,No,Debit Card
+497,Female,55,Dhaka,Gold,597880,Accessories,2360.27,5,5,No,Credit Card
+498,Male,35,Rajshahi,Gold,696956,Traditional Wear,3147.1,7,4,No,Credit Card
+499,Other,33,Dhaka,Regular,1106039,Tops,2072.01,5,4,No,Nagad
+500,Other,28,Sylhet,Regular,932985,Traditional Wear,3761.47,6,3,Yes,Nagad
+501,Female,33,Dhaka,Regular,615087,Bottoms,3704.65,1,4,No,Debit Card
+502,Female,30,Rangpur,Gold,480480,Accessories,3351.42,2,5,No,Nagad
+503,Male,39,Sylhet,Platinum,734596,Bottoms,2980.5,1,5,No,Nagad
+504,Female,41,Sylhet,Regular,757308,Tops,3659.82,5,1,No,Credit Card
+505,Female,24,Mymensingh,Regular,899239,Accessories,3791.39,2,2,No,Debit Card
+506,Male,18,Mymensingh,Gold,692936,Shoes,3454.92,2,4,No,Nagad
+507,Other,18,Sylhet,Regular,902299,Traditional Wear,1688.13,2,5,No,Debit Card
+508,Female,37,Rajshahi,Silver,1187030,Bottoms,2211.61,2,2,No,COD
+509,Other,20,Mymensingh,Platinum,963100,Tops,2731.94,2,2,No,Credit Card
+510,Female,18,Dhaka,Regular,790382,Shoes,1524.21,2,1,No,Credit Card
+511,Female,35,Rangpur,Silver,763369,Traditional Wear,3224,6,2,No,Credit Card
+512,Male,56,Dhaka,Regular,728665,Shoes,4411.01,0,2,No,bKash
+513,Other,31,Rajshahi,Regular,1036128,Traditional Wear,4251.69,1,3,No,Debit Card
+514,Female,40,Khulna,Gold,674537,Accessories,3739.63,4,1,No,COD
+515,Male,32,Chattogram,Regular,809044,Shoes,3727.71,6,1,No,Nagad
+516,Male,31,Rangpur,Platinum,810239,Shoes,5215.3,3,4,Yes,COD
+517,Male,41,Mymensingh,Silver,699643,Shoes,3843.86,3,2,No,Debit Card
+518,Female,29,Rangpur,Regular,525506,Accessories,3925.64,3,4,Yes,Credit Card
+519,Other,34,Dhaka,Regular,864594,Tops,1561.09,4,5,No,bKash
+520,Male,35,Chattogram,Regular,787799,Traditional Wear,4332.82,1,2,No,Debit Card
+521,Female,25,Barisal,Regular,900048,Shoes,3398.5,4,5,No,Debit Card
+522,Male,41,Barisal,Regular,693279,Accessories,2920.22,4,3,No,Nagad
+523,Other,30,Mymensingh,Regular,1044164,Tops,2672.36,4,2,No,COD
+524,Female,24,Rajshahi,Regular,624645,Traditional Wear,2451.4,1,4,No,COD
+525,Female,37,Barisal,Gold,1142408,Accessories,4256.78,2,4,Yes,Nagad
+526,Female,23,Rangpur,Silver,450472,Traditional Wear,2971.64,1,2,No,bKash
+527,Male,32,Barisal,Gold,886954,Shoes,2488.32,2,4,No,Credit Card
+528,Male,31,Khulna,Regular,895086,Tops,2228.45,2,2,No,Credit Card
+529,Male,42,Khulna,Regular,640888,Accessories,3170.6,3,1,No,bKash
+530,Female,36,Mymensingh,Silver,884878,Tops,2640.39,2,4,No,Nagad
+531,Female,31,Khulna,Regular,1055903,Shoes,2412.24,5,2,No,Debit Card
+532,Other,40,Barisal,Regular,356636,Tops,1617.84,5,2,Yes,COD
+533,Other,45,Rajshahi,Gold,900548,Tops,3959.36,3,4,No,Debit Card
+534,Female,37,Sylhet,Gold,301345,Bottoms,2861.98,5,1,No,COD
+535,Female,32,Sylhet,Silver,606867,Tops,1914.76,3,4,No,Debit Card
+536,Other,18,Mymensingh,Regular,1125833,Traditional Wear,2728.76,8,2,No,Nagad
+537,Female,21,Chattogram,Gold,683643,Accessories,3549.13,8,1,No,Nagad
+538,Male,28,Sylhet,Silver,565224,Bottoms,3028.84,4,5,No,bKash
+539,Female,25,Sylhet,Gold,760412,Accessories,3190.99,1,3,No,Debit Card
+540,Male,30,Khulna,Gold,1213581,Accessories,3042.55,0,4,No,Debit Card
+541,Other,32,Khulna,Gold,433663,Shoes,1723.14,3,2,Yes,bKash
+542,Female,37,Barisal,Silver,589738,Shoes,3948.51,4,1,No,bKash
+543,Male,31,Mymensingh,Regular,1099486,Bottoms,1291.75,3,1,No,Nagad
+544,Female,36,Chattogram,Silver,1171540,Shoes,3461.54,6,5,No,Nagad
+545,Female,32,Mymensingh,Silver,779313,Shoes,3615.57,4,4,No,Debit Card
+546,Male,18,Dhaka,Gold,552189,Shoes,2780.16,4,1,No,Nagad
+547,Male,22,Rangpur,Regular,1219168,Accessories,3353.42,3,5,No,Nagad
+548,Female,30,Chattogram,Regular,1118888,Bottoms,2722.86,2,2,No,Debit Card
+549,Female,19,Chattogram,Gold,935789,Accessories,3365.5,5,5,No,bKash
+550,Female,37,Rajshahi,Gold,637519,Traditional Wear,3992.92,4,4,No,Debit Card
+551,Female,47,Mymensingh,Platinum,790194,Accessories,2207.87,3,5,No,Credit Card
+552,Female,44,Barisal,Gold,767927,Traditional Wear,3673.96,5,1,No,Debit Card
+553,Female,29,Rajshahi,Silver,866170,Tops,4692.4,2,1,No,Credit Card
+554,Female,46,Chattogram,Silver,1090200,Tops,3264.57,2,3,No,Debit Card
+555,Female,33,Chattogram,Gold,975883,Traditional Wear,2496.9,2,5,No,Credit Card
+556,Male,28,Chattogram,Silver,584524,Traditional Wear,5263.23,3,2,No,Credit Card
+557,Male,25,Sylhet,Silver,1075299,Accessories,3088.71,3,4,No,Debit Card
+558,Male,28,Mymensingh,Regular,862626,Traditional Wear,3231.53,3,3,No,Nagad
+559,Female,28,Rangpur,Regular,937413,Bottoms,3252.37,0,5,No,COD
+560,Female,33,Rangpur,Gold,1093308,Tops,3447.86,4,2,No,Nagad
+561,Female,33,Rajshahi,Regular,577683,Tops,2661.13,4,3,No,Credit Card
+562,Male,32,Chattogram,Regular,792834,Traditional Wear,3189.99,2,1,Yes,Debit Card
+563,Male,36,Rangpur,Regular,693709,Shoes,3952.18,4,4,No,Debit Card
+564,Male,43,Khulna,Regular,486428,Shoes,2626.6,2,5,No,Debit Card
+565,Male,41,Mymensingh,Regular,869341,Traditional Wear,2580.01,1,2,No,Debit Card
+566,Female,18,Rangpur,Regular,1302311,Bottoms,2707.92,1,1,No,COD
+567,Male,18,Barisal,Platinum,431984,Shoes,1902.23,1,3,Yes,bKash
+568,Male,41,Mymensingh,Silver,793543,Traditional Wear,2317.16,1,4,No,Credit Card
+569,Other,18,Barisal,Regular,928108,Bottoms,2276.42,2,3,Yes,COD
+570,Male,29,Rangpur,Regular,824615,Bottoms,2999.48,1,3,No,Nagad
+571,Female,20,Khulna,Silver,777374,Accessories,3836.15,5,2,No,bKash
+572,Female,18,Barisal,Regular,540156,Bottoms,4453.71,2,1,No,bKash
+573,Male,37,Sylhet,Gold,846557,Shoes,3057.19,1,5,No,Debit Card
+574,Female,39,Rangpur,Silver,648647,Shoes,3456.47,3,2,No,COD
+575,Female,26,Sylhet,Gold,362015,Traditional Wear,3243.39,5,4,No,Nagad
+576,Other,18,Rangpur,Regular,1038918,Traditional Wear,906.56,3,3,No,Debit Card
+577,Male,26,Dhaka,Silver,991677,Bottoms,1852.11,3,4,Yes,Debit Card
+578,Other,35,Dhaka,Regular,810332,Tops,3761.26,1,2,No,Credit Card
+579,Female,18,Dhaka,Platinum,845814,Accessories,3858.49,2,2,No,bKash
+580,Male,33,Barisal,Silver,1014863,Tops,3835.61,3,5,No,Nagad
+581,Female,31,Sylhet,Regular,844867,Bottoms,2822.19,2,3,No,bKash
+582,Other,37,Sylhet,Regular,980803,Bottoms,1005.17,4,2,No,COD
+583,Female,33,Sylhet,Regular,740503,Tops,1971.48,4,4,No,Credit Card
+584,Male,22,Khulna,Silver,1062396,Accessories,2124.49,4,5,No,Debit Card
+585,Female,43,Sylhet,Regular,864157,Tops,3628.77,2,4,No,Credit Card
+586,Male,30,Khulna,Silver,838810,Traditional Wear,2642.63,3,3,No,Debit Card
+587,Male,31,Dhaka,Regular,545987,Shoes,4690.4,1,5,No,Credit Card
+588,Male,22,Dhaka,Silver,857391,Traditional Wear,4467.64,3,5,No,Debit Card
+589,Male,27,Barisal,Gold,633609,Shoes,4673.7,2,5,No,bKash
+590,Male,23,Rangpur,Gold,672343,Bottoms,2083.49,0,1,No,bKash
+591,Male,30,Dhaka,Gold,636924,Accessories,3490.89,3,5,No,bKash
+592,Female,49,Rangpur,Regular,586753,Tops,2522.48,4,4,No,bKash
+593,Male,18,Rangpur,Regular,1224954,Accessories,3327.87,1,4,Yes,Credit Card
+594,Male,18,Mymensingh,Silver,1066267,Tops,2194.39,2,3,No,Debit Card
+595,Female,46,Barisal,Regular,1184073,Traditional Wear,4226.16,5,2,No,bKash
+596,Female,29,Chattogram,Regular,555420,Traditional Wear,2213.07,0,2,No,Credit Card
+597,Female,25,Chattogram,Regular,814250,Tops,1052.76,1,1,No,Debit Card
+598,Male,42,Rajshahi,Regular,541298,Accessories,5033.78,2,5,No,Credit Card
+599,Male,25,Mymensingh,Regular,660861,Tops,3442.5,2,1,No,bKash
+600,Male,50,Barisal,Gold,616374,Bottoms,1930.87,2,3,No,COD
+601,Male,38,Rajshahi,Regular,1047916,Traditional Wear,2837.73,4,3,Yes,Credit Card
+602,Male,27,Rajshahi,Silver,720754,Bottoms,2423.14,3,2,No,bKash
+603,Male,53,Mymensingh,Regular,1013675,Traditional Wear,3005.74,3,3,No,Nagad
+604,Male,25,Chattogram,Silver,920824,Traditional Wear,3802.78,2,5,No,Debit Card
+605,Male,39,Barisal,Regular,1260727,Shoes,3645.78,3,4,No,bKash
+606,Female,34,Chattogram,Gold,504111,Bottoms,3253.73,1,3,No,Nagad
+607,Male,45,Rajshahi,Gold,1051846,Bottoms,3005.25,2,1,No,Credit Card
+608,Male,47,Barisal,Regular,1029288,Shoes,4078.67,0,5,No,Credit Card
+609,Female,32,Rajshahi,Platinum,605324,Accessories,1074.54,4,3,No,Nagad
+610,Female,24,Sylhet,Platinum,1001426,Bottoms,2251.07,4,3,No,Nagad
+611,Male,36,Mymensingh,Gold,867228,Tops,2021.34,6,5,No,Debit Card
+612,Female,25,Rangpur,Gold,754504,Shoes,4006.26,3,3,No,Credit Card
+613,Female,52,Barisal,Regular,635212,Bottoms,2260.91,4,4,No,Nagad
+614,Male,33,Barisal,Silver,656178,Accessories,1714.04,1,2,No,COD
+615,Female,28,Rangpur,Regular,1209962,Bottoms,3549.33,3,5,No,COD
+616,Other,33,Rajshahi,Regular,800136,Traditional Wear,2091.25,1,1,No,Nagad
+617,Male,18,Sylhet,Platinum,956426,Tops,2649.27,3,3,No,Debit Card
+618,Male,22,Khulna,Regular,641820,Shoes,5381.14,2,2,No,Credit Card
+619,Female,44,Rangpur,Gold,644029,Traditional Wear,3787.14,5,1,No,COD
+620,Female,25,Mymensingh,Gold,1016396,Accessories,2788.96,4,1,No,Nagad
+621,Male,21,Chattogram,Gold,530084,Traditional Wear,2878.87,1,4,No,Nagad
+622,Male,37,Rajshahi,Platinum,716957,Traditional Wear,3907.49,4,2,No,bKash
+623,Male,43,Rangpur,Regular,806805,Accessories,3662.87,2,5,Yes,Nagad
+624,Female,39,Rangpur,Regular,822274,Traditional Wear,3075.6,1,2,No,Debit Card
+625,Female,41,Barisal,Regular,764181,Shoes,3103.56,6,2,No,COD
+626,Male,24,Chattogram,Regular,879163,Bottoms,1520.15,1,1,No,bKash
+627,Female,18,Chattogram,Regular,938571,Traditional Wear,1309.99,4,4,No,COD
+628,Female,47,Mymensingh,Regular,946927,Shoes,2823.18,4,4,No,COD
+629,Male,28,Chattogram,Gold,602839,Bottoms,2366.71,6,2,No,Debit Card
+630,Male,29,Rangpur,Silver,743168,Bottoms,3586.08,6,2,No,Nagad
+631,Female,45,Khulna,Regular,1038952,Traditional Wear,3197.18,1,3,No,Debit Card
+632,Female,37,Dhaka,Silver,978929,Shoes,2227.23,4,1,No,Nagad
+633,Female,36,Rajshahi,Regular,525428,Traditional Wear,3163.2,6,5,Yes,bKash
+634,Female,53,Dhaka,Regular,870295,Accessories,2581.77,6,5,No,Debit Card
+635,Male,25,Rangpur,Gold,404354,Bottoms,5066.6,2,4,No,Debit Card
+636,Male,41,Dhaka,Silver,809386,Traditional Wear,3386.24,4,1,No,Credit Card
+637,Female,32,Rangpur,Gold,1179553,Bottoms,1439.39,4,4,Yes,Debit Card
+638,Male,34,Dhaka,Regular,610421,Shoes,4820.52,3,5,No,Credit Card
+639,Male,47,Chattogram,Gold,633135,Tops,2366.85,2,2,No,Nagad
+640,Male,37,Sylhet,Silver,952805,Traditional Wear,2025.26,0,1,No,Nagad
+641,Male,37,Chattogram,Silver,491439,Traditional Wear,5143.69,3,1,No,Nagad
+642,Male,42,Chattogram,Silver,673448,Bottoms,3345.84,0,3,No,Credit Card
+643,Male,28,Mymensingh,Gold,919288,Shoes,3700.77,1,2,No,Nagad
+644,Male,23,Barisal,Silver,673142,Accessories,3733.06,3,2,No,COD
+645,Male,21,Barisal,Silver,752806,Shoes,2794.01,3,4,No,Debit Card
+646,Female,18,Dhaka,Platinum,948837,Traditional Wear,2427.59,1,1,No,Credit Card
+647,Female,52,Rangpur,Gold,884309,Accessories,2590.74,8,4,No,Nagad
+648,Female,20,Mymensingh,Regular,853363,Shoes,4608.87,3,2,No,COD
+649,Female,29,Chattogram,Gold,732175,Tops,3203.79,1,3,No,Debit Card
+650,Female,29,Mymensingh,Regular,874012,Bottoms,4312.92,2,1,No,Debit Card
+651,Male,35,Dhaka,Regular,775253,Shoes,2923.55,3,2,No,Nagad
+652,Female,40,Barisal,Silver,891561,Shoes,2244.62,1,3,No,COD
+653,Female,40,Sylhet,Platinum,700613,Tops,1557.78,3,5,Yes,Credit Card
+654,Female,26,Rajshahi,Platinum,763486,Traditional Wear,3648,3,2,No,Nagad
+655,Male,30,Dhaka,Regular,602008,Bottoms,4694.1,5,5,No,Debit Card
+656,Male,34,Mymensingh,Silver,792998,Shoes,2114.03,5,4,No,Debit Card
+657,Male,29,Sylhet,Regular,637799,Accessories,3513.37,6,5,No,Debit Card
+658,Male,48,Rajshahi,Platinum,577190,Shoes,1624.38,4,2,No,Nagad
+659,Female,36,Khulna,Platinum,851732,Bottoms,2444.3,1,5,No,bKash
+660,Female,39,Dhaka,Silver,842547,Shoes,3267.94,1,1,No,bKash
+661,Male,38,Dhaka,Gold,956574,Tops,1271.71,5,2,Yes,bKash
+662,Other,43,Khulna,Gold,713774,Shoes,2981.98,4,3,No,COD
+663,Female,33,Khulna,Silver,881610,Shoes,2163.3,3,5,Yes,Nagad
+664,Male,19,Dhaka,Regular,910159,Accessories,3604.76,1,1,No,Debit Card
+665,Male,35,Khulna,Regular,888954,Tops,2834.6,1,4,Yes,COD
+666,Male,25,Chattogram,Silver,634869,Tops,3939.44,1,4,No,bKash
+667,Male,26,Rajshahi,Silver,829872,Shoes,2720.4,1,5,No,Credit Card
+668,Male,37,Rajshahi,Regular,872828,Accessories,1637.62,2,4,No,COD
+669,Male,44,Rajshahi,Platinum,801435,Shoes,1513.04,0,3,Yes,COD
+670,Male,32,Chattogram,Regular,382704,Shoes,1090.99,0,2,No,Nagad
+671,Male,35,Rangpur,Silver,832097,Bottoms,3632.96,2,1,No,COD
+672,Female,49,Khulna,Silver,1242506,Bottoms,5557.73,0,5,No,Nagad
+673,Male,34,Sylhet,Silver,727992,Accessories,3435.24,5,4,No,Credit Card
+674,Female,58,Khulna,Silver,654384,Traditional Wear,4672.05,4,2,No,Debit Card
+675,Male,37,Dhaka,Regular,874669,Bottoms,4133.57,2,3,No,Debit Card
+676,Other,18,Barisal,Regular,862475,Traditional Wear,2481.66,1,4,No,bKash
+677,Male,39,Mymensingh,Silver,1038547,Tops,4265.32,2,4,Yes,bKash
+678,Male,35,Mymensingh,Silver,548426,Bottoms,2521.43,1,1,No,Credit Card
+679,Other,44,Rajshahi,Regular,946276,Bottoms,2541.29,2,3,No,Debit Card
+680,Female,38,Khulna,Gold,918084,Accessories,2791.41,5,3,No,bKash
+681,Female,30,Sylhet,Regular,771570,Traditional Wear,2838.8,6,5,No,COD
+682,Male,19,Dhaka,Silver,867737,Bottoms,3661.37,4,1,No,Nagad
+683,Male,29,Chattogram,Gold,1005891,Bottoms,2329.11,2,5,No,bKash
+684,Female,23,Rangpur,Regular,974463,Accessories,3889.1,3,1,No,Credit Card
+685,Other,26,Chattogram,Regular,571396,Accessories,3874.74,4,3,No,Debit Card
+686,Female,37,Sylhet,Gold,964031,Traditional Wear,3342.96,1,1,No,Credit Card
+687,Female,48,Dhaka,Silver,787062,Tops,4939.61,0,1,No,Nagad
+688,Male,35,Rajshahi,Silver,814574,Tops,4287.39,7,1,Yes,Nagad
+689,Female,20,Khulna,Gold,814639,Shoes,4069.73,2,2,No,Credit Card
+690,Male,36,Dhaka,Gold,769951,Bottoms,3066.15,6,2,No,bKash
+691,Male,43,Mymensingh,Platinum,1038341,Traditional Wear,3351.77,2,3,No,bKash
+692,Male,25,Rangpur,Silver,783256,Bottoms,3523.81,3,1,No,Debit Card
+693,Female,30,Chattogram,Regular,576090,Traditional Wear,3013.24,6,3,No,Debit Card
+694,Male,32,Rangpur,Regular,721294,Traditional Wear,2624.43,4,2,No,COD
+695,Male,24,Rangpur,Regular,835738,Traditional Wear,594.29,2,1,No,COD
+696,Female,38,Sylhet,Silver,1045842,Bottoms,3717.77,7,5,Yes,Debit Card
+697,Male,30,Sylhet,Regular,920618,Accessories,4041.45,5,2,No,COD
+698,Female,36,Khulna,Platinum,629892,Bottoms,1838.88,5,2,No,Credit Card
+699,Male,23,Sylhet,Silver,1297037,Traditional Wear,3605.17,0,2,No,bKash
+700,Female,27,Sylhet,Silver,852955,Shoes,2408.47,2,1,No,COD
+701,Female,39,Dhaka,Regular,1055078,Tops,2633.47,1,4,No,COD
+702,Male,28,Mymensingh,Regular,769657,Traditional Wear,4310.76,5,5,No,Credit Card
+703,Male,49,Rajshahi,Regular,906671,Shoes,2009.37,3,5,No,Nagad
+704,Male,28,Khulna,Regular,967893,Accessories,2007.85,8,3,No,Debit Card
+705,Male,34,Dhaka,Regular,1043638,Traditional Wear,4804.83,2,1,No,Credit Card
+706,Other,41,Rajshahi,Silver,1011473,Shoes,2854.44,3,2,No,Nagad
+707,Male,18,Rangpur,Gold,974439,Traditional Wear,4246.55,2,4,No,Credit Card
+708,Female,18,Dhaka,Gold,736982,Bottoms,1401.3,3,1,No,bKash
+709,Male,18,Barisal,Silver,685650,Shoes,1481.4,5,1,Yes,Credit Card
+710,Female,44,Dhaka,Regular,866521,Bottoms,2087.06,8,4,Yes,Credit Card
+711,Female,26,Sylhet,Gold,986625,Bottoms,2518.54,3,2,No,bKash
+712,Female,57,Rajshahi,Gold,755455,Shoes,1596.71,3,1,No,Debit Card
+713,Female,26,Khulna,Regular,1013034,Tops,3369.3,5,5,Yes,Nagad
+714,Male,33,Khulna,Gold,1090523,Shoes,3434.59,2,5,No,COD
+715,Male,47,Rajshahi,Regular,616735,Tops,2101.86,4,4,No,Debit Card
+716,Other,52,Sylhet,Gold,632615,Traditional Wear,2181.4,3,2,No,Credit Card
+717,Female,52,Chattogram,Platinum,771924,Traditional Wear,2313.22,5,4,No,COD
+718,Other,44,Dhaka,Regular,861522,Shoes,1835.11,4,1,Yes,bKash
+719,Male,42,Sylhet,Gold,695086,Traditional Wear,500,4,5,No,Debit Card
+720,Female,37,Barisal,Silver,1070440,Accessories,2914.96,2,3,No,Nagad
+721,Other,39,Mymensingh,Platinum,884813,Bottoms,2569.56,4,4,No,Debit Card
+722,Male,26,Rangpur,Regular,807889,Bottoms,2671.85,5,3,No,Debit Card
+723,Male,23,Rajshahi,Gold,512818,Tops,1988.2,3,3,No,COD
+724,Female,31,Mymensingh,Regular,536836,Traditional Wear,3810.5,0,5,No,bKash
+725,Female,30,Dhaka,Regular,856201,Tops,5425.39,3,4,No,bKash
+726,Female,27,Khulna,Regular,373480,Bottoms,2165.92,6,3,No,Debit Card
+727,Male,38,Rangpur,Platinum,1002527,Bottoms,4399.7,5,1,No,bKash
+728,Female,41,Mymensingh,Gold,768369,Traditional Wear,3366.65,3,2,Yes,COD
+729,Male,32,Chattogram,Gold,1448618,Accessories,3035.42,1,2,No,COD
+730,Male,46,Mymensingh,Platinum,1261583,Accessories,2655.88,6,5,No,Nagad
+731,Male,20,Barisal,Regular,763710,Traditional Wear,2916.78,3,4,Yes,bKash
+732,Female,30,Khulna,Regular,778732,Traditional Wear,4149.59,2,4,No,Nagad
+733,Female,24,Rajshahi,Regular,999116,Tops,1861.92,3,2,No,Credit Card
+734,Female,18,Dhaka,Regular,1140634,Traditional Wear,2724.99,6,1,No,COD
+735,Male,31,Rajshahi,Regular,472394,Accessories,4249,1,2,Yes,Debit Card
+736,Female,30,Rangpur,Regular,442724,Traditional Wear,3983.71,3,2,Yes,COD
+737,Male,47,Dhaka,Regular,675593,Tops,1877.41,1,4,Yes,Credit Card
+738,Female,38,Sylhet,Regular,916547,Tops,2817.41,4,3,No,Debit Card
+739,Male,21,Chattogram,Regular,899374,Tops,3728.01,1,1,No,bKash
+740,Male,50,Sylhet,Regular,1013954,Tops,3663.43,2,4,No,bKash
+741,Female,44,Sylhet,Platinum,560060,Shoes,3975.13,5,2,No,COD
+742,Male,37,Rajshahi,Gold,336771,Traditional Wear,3384.29,2,3,No,Debit Card
+743,Female,29,Rangpur,Platinum,971602,Bottoms,3551.95,3,1,No,Debit Card
+744,Female,22,Chattogram,Regular,634360,Traditional Wear,3342.8,4,5,No,Nagad
+745,Male,28,Mymensingh,Regular,396302,Shoes,4579.73,3,1,No,Credit Card
+746,Female,42,Dhaka,Gold,829012,Tops,2578.19,6,1,No,bKash
+747,Male,50,Dhaka,Regular,958635,Shoes,3048.19,3,2,No,COD
+748,Female,47,Barisal,Regular,775588,Accessories,1985.03,3,2,No,Debit Card
+749,Other,27,Khulna,Regular,708430,Accessories,1787.98,3,5,No,bKash
+750,Female,20,Barisal,Regular,768127,Traditional Wear,3324.96,2,5,Yes,COD
+751,Male,33,Mymensingh,Regular,725883,Traditional Wear,2275.81,3,5,No,bKash
+752,Other,18,Barisal,Regular,530390,Bottoms,2942.31,4,4,No,COD
+753,Female,35,Dhaka,Silver,657063,Bottoms,4617.75,3,4,No,bKash
+754,Male,30,Rajshahi,Regular,904255,Accessories,4559.94,3,2,No,Nagad
+755,Male,27,Sylhet,Regular,864335,Tops,5224.04,3,2,No,Credit Card
+756,Female,18,Rangpur,Gold,833611,Shoes,4637.65,2,5,No,bKash
+757,Female,37,Sylhet,Regular,600970,Bottoms,5403.02,5,4,No,Credit Card
+758,Female,26,Sylhet,Regular,763699,Bottoms,3436.53,4,3,No,bKash
+759,Female,20,Chattogram,Gold,364586,Tops,2096.98,0,4,No,Debit Card
+760,Female,18,Dhaka,Regular,835695,Tops,1999.61,2,2,No,Nagad
+761,Male,31,Mymensingh,Regular,1085771,Traditional Wear,4396.33,5,4,No,Nagad
+762,Male,49,Mymensingh,Regular,505173,Shoes,3051.63,3,2,No,Credit Card
+763,Male,48,Rangpur,Regular,682814,Tops,3126.13,1,5,No,Debit Card
+764,Female,27,Rajshahi,Silver,865821,Bottoms,2450.93,1,5,No,COD
+765,Male,25,Chattogram,Gold,1050568,Bottoms,2570.83,2,5,Yes,Nagad
+766,Female,36,Khulna,Regular,710355,Accessories,3383.76,2,3,No,Debit Card
+767,Female,22,Rajshahi,Silver,661549,Tops,1944.78,5,3,No,Debit Card
+768,Female,35,Barisal,Silver,406215,Traditional Wear,3257.14,3,2,No,Credit Card
+769,Male,39,Rajshahi,Regular,820687,Shoes,4511.08,7,1,No,Debit Card
+770,Female,44,Rajshahi,Silver,1208415,Traditional Wear,866.36,5,3,No,Debit Card
+771,Male,30,Sylhet,Regular,855471,Bottoms,1458.69,3,2,No,COD
+772,Female,29,Rajshahi,Regular,795544,Traditional Wear,3675.61,6,4,No,Credit Card
+773,Male,23,Mymensingh,Regular,864416,Bottoms,4363.97,4,5,No,Credit Card
+774,Male,23,Barisal,Regular,797781,Bottoms,2510.11,2,5,No,Debit Card
+775,Female,29,Barisal,Regular,637397,Bottoms,1001.76,1,5,No,COD
+776,Male,35,Dhaka,Gold,964655,Bottoms,4431.92,3,2,No,bKash
+777,Male,41,Rajshahi,Regular,845152,Bottoms,2188.93,2,5,No,Nagad
+778,Female,23,Sylhet,Regular,803522,Accessories,2638.75,4,3,No,Credit Card
+779,Female,46,Rajshahi,Regular,604926,Traditional Wear,3319.04,6,4,Yes,COD
+780,Female,29,Khulna,Gold,1060701,Accessories,2333.57,2,5,No,COD
+781,Female,31,Khulna,Silver,932940,Accessories,2123.87,3,2,Yes,Debit Card
+782,Female,24,Sylhet,Silver,689415,Tops,2142.2,2,4,No,Nagad
+783,Male,18,Dhaka,Gold,1000364,Tops,4857.93,6,5,No,Credit Card
+784,Male,40,Dhaka,Gold,700485,Tops,4159.61,1,1,No,bKash
+785,Male,39,Barisal,Regular,643599,Shoes,3574.52,8,5,Yes,Debit Card
+786,Other,29,Barisal,Silver,648059,Tops,813.57,3,3,No,Credit Card
+787,Female,32,Chattogram,Gold,445786,Traditional Wear,3578.19,6,4,Yes,Credit Card
+788,Male,37,Sylhet,Platinum,894308,Accessories,3524.2,1,3,No,COD
+789,Female,18,Rajshahi,Gold,433771,Traditional Wear,1721.87,4,1,No,Nagad
+790,Other,26,Rangpur,Regular,554311,Tops,3258.71,1,1,No,bKash
+791,Male,39,Sylhet,Regular,384882,Shoes,4051.49,0,3,No,Nagad
+792,Female,19,Chattogram,Regular,782786,Shoes,3569.37,0,4,Yes,COD
+793,Female,34,Barisal,Gold,769935,Accessories,2319.83,4,1,No,bKash
+794,Female,18,Sylhet,Regular,734660,Traditional Wear,3013.26,4,1,No,bKash
+795,Male,36,Sylhet,Regular,591484,Bottoms,3730.36,4,5,No,Debit Card
+796,Female,31,Barisal,Gold,565553,Traditional Wear,3059.45,2,2,No,bKash
+797,Other,18,Mymensingh,Regular,892873,Tops,4254.28,3,1,No,Credit Card
+798,Female,43,Chattogram,Gold,689889,Bottoms,3395.68,3,4,Yes,Nagad
+799,Female,24,Barisal,Regular,863271,Shoes,3752.92,4,4,No,Nagad
+800,Other,23,Dhaka,Regular,622950,Accessories,3821.4,7,5,No,Debit Card
+801,Female,34,Rajshahi,Regular,836212,Accessories,1933.32,0,4,Yes,bKash
+802,Male,43,Barisal,Gold,1060655,Shoes,3049.99,3,5,No,COD
+803,Female,21,Chattogram,Regular,917233,Tops,2667.65,4,1,Yes,Credit Card
+804,Female,32,Khulna,Regular,717517,Shoes,4043.85,4,1,No,Debit Card
+805,Male,36,Dhaka,Platinum,851439,Tops,3463.23,3,1,No,bKash
+806,Female,38,Khulna,Regular,751866,Bottoms,2811.79,3,1,No,COD
+807,Other,33,Rangpur,Silver,801576,Shoes,1718.15,3,2,Yes,bKash
+808,Other,28,Barisal,Silver,734877,Tops,1403.09,2,2,Yes,Debit Card
+809,Female,23,Dhaka,Regular,767132,Bottoms,3310.34,2,1,No,COD
+810,Male,32,Rajshahi,Silver,842418,Shoes,2282.79,4,4,No,COD
+811,Other,21,Barisal,Regular,601328,Accessories,3666.13,2,5,Yes,COD
+812,Female,18,Rajshahi,Silver,596824,Shoes,1356.86,4,3,No,COD
+813,Male,36,Mymensingh,Regular,522291,Traditional Wear,4592.95,4,5,No,bKash
+814,Other,41,Sylhet,Silver,479945,Shoes,3663.86,4,3,No,COD
+815,Female,18,Khulna,Regular,556543,Traditional Wear,3099.19,4,3,No,bKash
+816,Female,21,Dhaka,Silver,831892,Bottoms,4683.06,4,1,No,COD
+817,Female,38,Rajshahi,Regular,621442,Shoes,3948.42,2,3,No,COD
+818,Male,52,Chattogram,Regular,902722,Bottoms,2525,2,1,No,Debit Card
+819,Male,32,Rajshahi,Regular,806942,Bottoms,3077.58,4,2,No,bKash
+820,Male,24,Chattogram,Regular,406299,Tops,1035.73,4,4,No,bKash
+821,Female,30,Barisal,Gold,930995,Bottoms,4064.19,7,3,No,Nagad
+822,Male,45,Dhaka,Regular,962159,Bottoms,2704.05,3,4,No,Debit Card
+823,Male,25,Rajshahi,Platinum,601227,Shoes,1022.78,2,1,Yes,bKash
+824,Male,24,Rangpur,Platinum,884038,Shoes,1818.16,2,3,Yes,Debit Card
+825,Female,27,Rajshahi,Silver,628700,Accessories,3870.91,1,5,Yes,Debit Card
+826,Other,22,Mymensingh,Regular,819534,Tops,4613.8,0,2,No,Debit Card
+827,Male,33,Rangpur,Regular,547100,Bottoms,3020.43,3,2,No,Credit Card
+828,Male,48,Dhaka,Gold,441378,Tops,2017.95,2,3,No,bKash
+829,Female,35,Mymensingh,Regular,723436,Traditional Wear,1579.25,2,2,No,Debit Card
+830,Female,29,Rajshahi,Regular,775254,Bottoms,4414.61,1,5,No,Credit Card
+831,Male,29,Chattogram,Silver,720464,Tops,3449.47,0,4,Yes,Credit Card
+832,Female,18,Rajshahi,Gold,563193,Accessories,2669.86,4,5,No,COD
+833,Male,40,Khulna,Gold,720020,Accessories,2431.73,1,2,Yes,COD
+834,Male,31,Barisal,Regular,853858,Bottoms,3671.83,4,4,Yes,bKash
+835,Female,30,Sylhet,Silver,791021,Traditional Wear,3644.32,6,5,No,COD
+836,Male,63,Chattogram,Regular,836500,Accessories,2103.42,1,1,No,bKash
+837,Other,34,Khulna,Regular,665976,Accessories,1857.63,3,1,No,Credit Card
+838,Male,24,Rangpur,Gold,1034343,Traditional Wear,1908.1,2,4,No,Credit Card
+839,Female,27,Barisal,Regular,564765,Tops,2531.78,5,4,No,bKash
+840,Female,43,Dhaka,Regular,897512,Accessories,2310.21,3,4,No,COD
+841,Male,33,Chattogram,Regular,1036378,Shoes,4618.09,1,1,No,COD
+842,Female,18,Sylhet,Gold,896181,Accessories,2496.22,1,5,No,bKash
+843,Male,41,Barisal,Gold,759495,Tops,1750.33,3,4,No,Nagad
+844,Other,25,Rangpur,Silver,694340,Tops,1806.5,2,1,No,COD
+845,Male,50,Mymensingh,Gold,1007217,Bottoms,2816.03,4,4,No,Debit Card
+846,Male,42,Mymensingh,Regular,515405,Shoes,1177.88,5,4,No,COD
+847,Male,27,Sylhet,Regular,605975,Tops,2939.88,3,4,No,Nagad
+848,Other,44,Dhaka,Regular,720488,Traditional Wear,1663.79,2,1,No,Credit Card
+849,Female,32,Dhaka,Regular,1047530,Shoes,4158.61,4,5,No,Credit Card
+850,Female,40,Rangpur,Regular,875953,Shoes,3116.56,1,1,No,Credit Card
+851,Male,36,Chattogram,Platinum,606390,Traditional Wear,5121.02,4,1,No,COD
+852,Female,23,Rangpur,Regular,737938,Accessories,2771.8,2,4,No,Credit Card
+853,Male,25,Rajshahi,Regular,677135,Traditional Wear,500,3,3,No,Nagad
+854,Female,42,Dhaka,Regular,658042,Traditional Wear,4457.68,3,3,No,Nagad
+855,Male,28,Barisal,Regular,995777,Accessories,3501.92,1,3,No,COD
+856,Male,27,Rajshahi,Platinum,525651,Accessories,3656.91,2,1,No,Debit Card
+857,Male,22,Mymensingh,Regular,1121756,Accessories,1997.42,2,4,No,COD
+858,Female,36,Mymensingh,Regular,965645,Accessories,2957.15,4,3,No,Credit Card
+859,Female,52,Khulna,Gold,1018172,Accessories,3186.46,3,2,No,COD
+860,Male,21,Sylhet,Regular,707412,Traditional Wear,2762.18,2,2,No,Nagad
+861,Female,32,Rajshahi,Regular,770011,Bottoms,1265.64,2,2,No,COD
+862,Female,46,Sylhet,Regular,513369,Bottoms,5768.69,3,5,No,COD
+863,Female,31,Rangpur,Silver,695067,Tops,3835.83,2,4,No,Debit Card
+864,Male,36,Rajshahi,Platinum,898730,Bottoms,3420.58,3,1,Yes,Nagad
+865,Male,21,Rangpur,Gold,1059212,Bottoms,4313.89,4,1,Yes,bKash
+866,Female,36,Khulna,Regular,578568,Traditional Wear,3644.19,2,4,No,bKash
+867,Male,30,Dhaka,Gold,726898,Accessories,2322.8,2,5,Yes,Nagad
+868,Male,41,Mymensingh,Regular,769740,Accessories,4249.78,1,4,Yes,bKash
+869,Female,43,Khulna,Regular,520842,Traditional Wear,3852.22,3,5,No,Credit Card
+870,Other,57,Mymensingh,Regular,918269,Bottoms,2360.71,3,3,No,bKash
+871,Male,37,Dhaka,Regular,655201,Traditional Wear,3790.01,3,3,No,Credit Card
+872,Male,35,Rangpur,Silver,760921,Tops,2759.43,4,5,No,Nagad
+873,Female,33,Dhaka,Silver,709610,Accessories,3208.48,3,4,No,bKash
+874,Male,28,Mymensingh,Platinum,642132,Shoes,3599.65,2,3,No,bKash
+875,Male,35,Mymensingh,Silver,798591,Tops,4368.5,3,4,No,Credit Card
+876,Male,29,Sylhet,Silver,756878,Tops,2354,4,3,No,Credit Card
+877,Female,33,Barisal,Regular,725628,Traditional Wear,3364.96,6,4,No,COD
+878,Female,45,Khulna,Regular,654307,Bottoms,5015.73,3,4,No,Debit Card
+879,Male,21,Rajshahi,Silver,863904,Accessories,2823.95,3,2,No,bKash
+880,Male,43,Mymensingh,Regular,1130723,Shoes,3196.56,3,5,No,Debit Card
+881,Male,45,Khulna,Gold,827977,Tops,5014.23,3,1,No,Debit Card
+882,Female,30,Sylhet,Regular,999223,Shoes,3637.48,5,5,No,bKash
+883,Male,18,Dhaka,Regular,521955,Bottoms,1526.02,4,4,No,Credit Card
+884,Male,25,Sylhet,Regular,831552,Bottoms,2204.52,1,4,No,COD
+885,Female,44,Chattogram,Regular,580526,Shoes,3689.58,3,5,No,Nagad
+886,Male,31,Chattogram,Regular,504615,Accessories,3423,4,4,No,bKash
+887,Female,22,Rajshahi,Gold,652125,Bottoms,3162.58,2,3,No,bKash
+888,Male,26,Sylhet,Regular,1038379,Shoes,5161.22,2,4,No,Nagad
+889,Male,40,Rangpur,Silver,990003,Tops,2382.51,1,5,No,Debit Card
+890,Male,37,Rajshahi,Regular,848600,Shoes,2925.59,4,5,No,COD
+891,Female,29,Rangpur,Regular,493459,Shoes,1036.89,1,5,No,Debit Card
+892,Female,28,Rajshahi,Regular,760743,Traditional Wear,4160.66,3,2,Yes,Nagad
+893,Female,28,Chattogram,Gold,860340,Bottoms,2201.15,2,2,No,Nagad
+894,Male,22,Rajshahi,Regular,835107,Accessories,4057.14,0,2,No,COD
+895,Female,48,Chattogram,Gold,431241,Accessories,3952.03,1,2,No,Nagad
+896,Male,28,Mymensingh,Regular,621936,Traditional Wear,5349.1,1,2,Yes,Nagad
+897,Male,44,Dhaka,Gold,787184,Accessories,3649.28,3,2,No,COD
+898,Female,47,Rangpur,Regular,907258,Shoes,2643.91,3,2,No,bKash
+899,Male,41,Sylhet,Silver,360774,Traditional Wear,3453.62,4,5,No,Debit Card
+900,Male,27,Mymensingh,Silver,767575,Tops,2240.75,3,1,No,bKash
+901,Male,36,Mymensingh,Platinum,828609,Bottoms,3319.16,3,2,No,bKash
+902,Male,31,Rajshahi,Regular,969922,Bottoms,2799.1,4,5,No,Debit Card
+903,Male,22,Chattogram,Regular,938571,Bottoms,2929.66,4,1,No,bKash
+904,Female,35,Khulna,Regular,916514,Shoes,2101.63,3,2,No,COD
+905,Male,20,Rangpur,Gold,640011,Tops,3300.45,1,1,No,Debit Card
+906,Female,43,Mymensingh,Silver,418399,Traditional Wear,3824.23,2,1,No,Credit Card
+907,Female,27,Rajshahi,Gold,721389,Traditional Wear,1347.9,0,3,No,bKash
+908,Male,34,Barisal,Regular,1000326,Bottoms,2311.41,3,4,No,Nagad
+909,Male,34,Dhaka,Regular,1078690,Tops,3168.05,3,3,No,Debit Card
+910,Male,29,Dhaka,Regular,942109,Tops,652.68,1,1,No,Credit Card
+911,Female,37,Khulna,Platinum,885868,Tops,4740.26,2,5,Yes,Nagad
+912,Male,27,Chattogram,Silver,875927,Accessories,2288.89,4,2,No,Credit Card
+913,Female,40,Rajshahi,Platinum,688776,Accessories,2061.91,2,4,No,bKash
+914,Male,18,Rangpur,Regular,773987,Bottoms,2792.66,5,2,Yes,Nagad
+915,Female,33,Chattogram,Silver,1133813,Tops,3137.37,4,5,No,bKash
+916,Male,51,Dhaka,Silver,611488,Tops,2243.53,3,4,Yes,Nagad
+917,Male,21,Chattogram,Regular,1122955,Traditional Wear,3980.41,3,3,No,Debit Card
+918,Other,25,Dhaka,Gold,735594,Traditional Wear,3399.71,4,1,No,COD
+919,Female,37,Chattogram,Platinum,1065086,Bottoms,2162.76,3,5,No,COD
+920,Male,33,Khulna,Gold,518636,Tops,2477.59,2,1,No,Credit Card
+921,Female,35,Sylhet,Gold,917180,Bottoms,1483.23,6,1,No,Nagad
+922,Female,36,Khulna,Regular,652645,Traditional Wear,1746.66,1,2,No,bKash
+923,Female,38,Khulna,Regular,516946,Traditional Wear,3387.6,3,5,No,Debit Card
+924,Female,43,Sylhet,Platinum,843706,Accessories,2173.14,2,1,No,Debit Card
+925,Male,36,Sylhet,Regular,1001894,Bottoms,4804.28,4,3,No,Debit Card
+926,Male,29,Mymensingh,Gold,631011,Bottoms,3070.92,2,4,No,COD
+927,Male,38,Mymensingh,Gold,500196,Tops,1647.18,3,5,No,bKash
+928,Female,50,Rajshahi,Silver,781631,Tops,1856.65,2,2,No,Debit Card
+929,Female,30,Rangpur,Platinum,782512,Accessories,4052.97,2,5,No,Debit Card
+930,Male,22,Rangpur,Regular,909663,Shoes,2923.49,3,2,No,Credit Card
+931,Male,43,Rajshahi,Regular,989918,Shoes,3991.99,3,4,No,Nagad
+932,Female,30,Khulna,Regular,788116,Shoes,2633.51,4,3,No,Nagad
+933,Other,18,Khulna,Regular,1171100,Bottoms,2439.77,4,1,No,Nagad
+934,Female,40,Dhaka,Regular,844846,Bottoms,4119.45,2,5,No,Credit Card
+935,Male,26,Dhaka,Regular,730714,Traditional Wear,2141.42,2,2,No,COD
+936,Male,31,Rangpur,Gold,477686,Bottoms,3489.05,4,4,No,Credit Card
+937,Male,35,Rajshahi,Platinum,747468,Bottoms,2788.22,2,1,Yes,Debit Card
+938,Other,33,Barisal,Regular,732722,Bottoms,3878.72,2,4,No,bKash
+939,Male,39,Mymensingh,Regular,992060,Accessories,4818.48,8,3,No,Debit Card
+940,Female,27,Barisal,Platinum,892496,Bottoms,2607.82,3,1,No,Debit Card
+941,Male,37,Rajshahi,Regular,564126,Tops,2452.86,3,1,No,bKash
+942,Female,29,Dhaka,Regular,834450,Tops,3665.81,4,1,Yes,Nagad
+943,Female,39,Rangpur,Regular,934306,Traditional Wear,1918,1,2,No,Credit Card
+944,Female,38,Rangpur,Silver,1105606,Accessories,4616.47,4,1,No,COD
+945,Male,22,Dhaka,Regular,977500,Tops,4446.02,4,4,No,Debit Card
+946,Male,42,Barisal,Platinum,952169,Accessories,2000.88,4,2,No,Debit Card
+947,Male,26,Chattogram,Regular,812017,Accessories,1416.88,3,1,No,COD
+948,Other,40,Chattogram,Silver,877662,Traditional Wear,1839.42,3,4,Yes,Credit Card
+949,Female,35,Dhaka,Regular,1049900,Accessories,1854.63,2,4,No,Debit Card
+950,Female,50,Chattogram,Regular,533444,Bottoms,3801.76,2,5,No,COD
+951,Female,29,Sylhet,Silver,730112,Accessories,4549.17,2,4,No,Debit Card
+952,Female,28,Rajshahi,Gold,645486,Traditional Wear,3790.13,2,3,No,Nagad
+953,Male,31,Rajshahi,Gold,875830,Traditional Wear,2763.81,3,1,No,Nagad
+954,Other,28,Dhaka,Silver,1046044,Traditional Wear,3342.5,0,1,No,Debit Card
+955,Male,39,Khulna,Platinum,680605,Tops,2130.22,4,1,Yes,Debit Card
+956,Male,18,Mymensingh,Gold,321939,Bottoms,4097.21,3,4,No,Nagad
+957,Female,21,Barisal,Gold,717555,Tops,3432.03,6,4,No,Debit Card
+958,Male,21,Dhaka,Regular,982694,Shoes,3773.2,4,1,No,Credit Card
+959,Male,41,Chattogram,Regular,907525,Bottoms,2272.46,1,2,No,Credit Card
+960,Female,49,Barisal,Regular,885637,Accessories,2831.4,4,2,No,bKash
+961,Male,30,Khulna,Silver,744001,Traditional Wear,3725.07,6,3,No,Credit Card
+962,Female,30,Chattogram,Regular,544193,Shoes,4443.51,3,5,No,Debit Card
+963,Male,32,Rangpur,Regular,903058,Bottoms,2391.9,2,3,No,Debit Card
+964,Male,43,Mymensingh,Gold,633143,Tops,3780.45,1,1,No,COD
+965,Male,22,Sylhet,Gold,1236819,Traditional Wear,2287.93,4,1,No,Credit Card
+966,Male,34,Chattogram,Platinum,914101,Tops,5117.19,4,1,No,Nagad
+967,Female,41,Sylhet,Regular,683870,Bottoms,2585.18,3,5,No,Nagad
+968,Male,37,Barisal,Silver,677722,Bottoms,3643.51,2,4,No,bKash
+969,Female,33,Sylhet,Regular,781411,Shoes,3165.61,4,5,Yes,COD
+970,Female,42,Barisal,Regular,752099,Accessories,5605.3,6,3,No,Nagad
+971,Female,18,Barisal,Regular,1023366,Tops,3229.9,3,4,Yes,bKash
+972,Other,38,Barisal,Regular,837283,Shoes,2484.94,2,4,No,Credit Card
+973,Female,25,Barisal,Regular,653673,Traditional Wear,3639.51,5,3,Yes,COD
+974,Male,18,Barisal,Gold,1178088,Accessories,3617.24,1,4,Yes,COD
+975,Male,37,Chattogram,Regular,809861,Shoes,2842.53,1,2,No,Debit Card
+976,Male,45,Barisal,Gold,953767,Tops,1905.23,1,3,No,Credit Card
+977,Female,30,Chattogram,Silver,678354,Bottoms,2472,1,3,No,COD
+978,Male,41,Barisal,Regular,872623,Traditional Wear,3881.5,2,2,No,bKash
+979,Female,48,Sylhet,Regular,862221,Tops,1252.55,3,5,No,Nagad
+980,Female,45,Rangpur,Regular,422070,Accessories,2751.95,1,5,No,Credit Card
+981,Male,48,Barisal,Silver,1203055,Accessories,3994.86,1,5,No,Credit Card
+982,Female,39,Khulna,Regular,1058128,Bottoms,2906.5,2,4,No,COD
+983,Male,32,Barisal,Regular,720560,Bottoms,5173.71,3,2,No,COD
+984,Male,18,Barisal,Regular,579546,Traditional Wear,1255.35,5,3,No,COD
+985,Female,29,Sylhet,Silver,869512,Traditional Wear,2038.63,4,3,No,bKash
+986,Female,23,Mymensingh,Platinum,817339,Bottoms,685.37,3,3,No,Debit Card
+987,Female,53,Rajshahi,Regular,871133,Bottoms,4993.69,1,4,Yes,COD
+988,Male,30,Sylhet,Gold,838315,Accessories,2055.01,2,4,No,Debit Card
+989,Male,33,Khulna,Silver,901248,Bottoms,1013.08,0,5,No,Debit Card
+990,Female,37,Rajshahi,Platinum,1089461,Shoes,2388.08,2,4,No,Credit Card
+991,Female,32,Dhaka,Gold,913620,Tops,1607.19,2,5,No,Nagad
+992,Female,48,Dhaka,Silver,590068,Bottoms,2395.22,5,5,No,Nagad
+993,Male,25,Mymensingh,Silver,1072512,Traditional Wear,3041.23,3,3,No,bKash
+994,Female,33,Khulna,Gold,1128122,Shoes,3804.92,2,4,No,bKash
+995,Male,24,Sylhet,Regular,1430411,Traditional Wear,2825.33,4,5,No,Nagad
+996,Male,18,Chattogram,Regular,575301,Shoes,3025.29,5,2,No,Nagad
+997,Other,25,Khulna,Regular,848576,Bottoms,2418.4,3,2,No,Credit Card
+998,Male,31,Rangpur,Gold,383580,Tops,1488.3,2,4,No,Credit Card
+999,Other,27,Rajshahi,Gold,910629,Traditional Wear,1153.46,0,3,No,Nagad
+1000,Male,25,Rajshahi,Regular,690359,Shoes,2635.51,3,3,No,COD
