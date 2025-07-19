@@ -90,9 +90,5 @@ This project is provided for **educational and analytical purposes**. Please cit
 
 ---
 
-## 🙌 Acknowledgments
 
-Thanks to the open-source community and the creators of Python libraries that make such analytical work possible.
-
----
 
